@@ -1,3 +1,114 @@
+---
+title: "The Smartwatch Market at an Inflection Point: A Critical Survey of Incumbent Paradigms and Emerging Disruptions"
+short_title: "Smartwatch Paradigm Shift"
+document_type: "research-article"
+version: "0.1.0"
+language: "en"
+license:
+  content: "CC BY 4.0"
+  code: "Apache-2.0"
+  data: "ODC-By-1.0"
+
+authors:
+  - name: "Beauford"
+    affiliation: "Independent Archivist and Technologist, Fitzroy, Melbourne, VIC, Australia"
+    roles: ["Conceptualization", "Methodology", "Writing—Original Draft", "Validation", "Curation"]
+  - name: "Copilot"
+    affiliation: "Microsoft AI"
+    roles: ["Analysis", "Editing", "Structured Protocol Design"]
+
+abstract: >
+  This article interrogates the contemporary smartwatch market’s legacy paradigm—marked by ecosystem lock-in,
+  constrained hardware, and opaque pseudo-metrics—and contrasts it with challenger devices that foreground raw
+  computational capacity, openness, and sovereign programmability. We articulate a framework distinguishing
+  signal, metric, and noise; situate generative AI as a catalyst for on-the-fly, purpose-built applications; and
+  argue that archival-grade, reproducible signal pipelines are displacing black-box scoring systems as the locus
+  of value. The survey concludes that the field is at an inflection point, with hardware sovereignty and signal
+  fidelity emerging as decisive advantages over incumbents’ walled-garden polish.
+
+keywords:
+  - smartwatch
+  - ecosystem lock-in
+  - sovereign computing
+  - generative AI
+  - signal fidelity
+  - reproducibility
+  - quantified self
+  - ODM disruption
+  - wearable sensors
+  - archival protocols
+
+reproducibility:
+  os:
+    host: "Android 10/11 (smartwatch)"
+    userland: "Termux; optional Debian (proot)"
+  environment:
+    cpu: "UNISOC 8541E variant (quad A53 or 4+4 A55); verify via /proc/cpuinfo"
+    ram: "Verify via /proc/meminfo and Settings → Memory"
+    storage: "Verify via df -h; capture internal/SD partitions"
+    gpu: "IMG8322 or Mali-T820 MP1; probe via OpenGL/Vulkan"
+  dependencies:
+    - name: "Termux"
+      components: ["x11-repo", "termux-api", "clang", "python", "nodejs"]
+    - name: "Python"
+      version: "3.11+"
+      packages: ["numpy", "pandas", "scipy", "matplotlib", "polars"]
+    - name: "GNU coreutils"
+  verification_protocol:
+    - label: "Capture marketing claims"
+      action: "Archive invoice and listing text"
+    - label: "Verify CPU cores"
+      action: "cat /proc/cpuinfo | grep -E 'processor|Hardware|model name'"
+    - label: "Verify RAM"
+      action: "cat /proc/meminfo; free -h; screenshot Android memory page"
+    - label: "Verify storage"
+      action: "df -h; document partitions and capacities"
+    - label: "Sensor fidelity"
+      action: "Collect raw accelerometer/PPG traces and evaluate against reference tasks"
+
+ml_pipeline:
+  purpose: "On-device translation of raw signals into validated metrics"
+  models:
+    - name: "Signal-to-Metric Translator"
+      type: "Time-series (feature-based or lightweight Transformer)"
+      inputs: ["accelerometer", "PPG", "GNSS"]
+      outputs: ["cadence", "heart_rate", "distance"]
+      evaluation: ["MAE", "RMSE", "Calibration curves", "Coverage"]
+  deployment:
+    target: "Termux + Python"
+    latency_budget_ms: 200
+    power_budget_mw: 300
+    optimization: ["quantization-aware", "on-device feature engineering"]
+
+sections:
+  - id: "introduction"
+    title: "Introduction"
+  - id: "legacy_paradigm"
+    title: "The Legacy Paradigm"
+  - id: "signal_noise"
+    title: "Signal, Metric, and Noise"
+  - id: "challenger_paradigm"
+    title: "The Challenger Paradigm"
+  - id: "implications"
+    title: "Implications: A Change of Guard"
+  - id: "conclusion"
+    title: "Conclusion"
+
+citations:
+  style: "APA-7"
+  manager: "BibTeX"
+  file: "references.bib"
+
+metadata:
+  discipline: ["human-computer-interaction", "market-economics", "wearable-computing", "machine-learning"]
+  dissemination:
+    preprint_servers: ["arXiv", "OSF"]
+  conflicts_of_interest: "None declared."
+  funding: "Self-funded."
+  ethics_statement: "No human subjects research; emphasis on user data sovereignty and reproducibility."
+---
+
+
 # Schema and document metadata
 schema_version: "1.0.0"
 document_type: "research-article"
