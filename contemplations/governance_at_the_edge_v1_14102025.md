@@ -244,7 +244,7 @@ The lesson from communications theory is that all channels are managed channels.
 ---
 
 5. Conclusion
-The metaphor of open vs. closed discourse, when read through the lens of communications theory, reveals itself as a false binary. Both extremes are untenable, impracticable, and unsafe. The real work is governance: designing protocols that preserve intelligibility, protect against existential risks, and ensure that what circulates is not noise masquerading as signal.  
+The metaphor of open vs. closed discourse, when read through the lens of communications theory, reveals itself as a false binary. Both extremes are untenable, impracticable, and unsafe. The real work is governance, design, implementation, integrity: designing protocols that preserve intelligibility, protect against existential risks, and ensure that what circulates is not noise masquerading as signal.  
 
 In this sense, the absolute danger of “everything open” is not simply exposure, but the collapse of meaning itself.  
 
