@@ -287,7 +287,7 @@ I’ll give you a set of readings that extend the line of thought we’ve been c
   Actor‑Network Theory: shows how networks are never fully open or closed, but stabilized through governance and translation.  
 
 - Geoffrey Bowker & Susan Leigh Star – Sorting Things Out: Classification and Its Consequences (1999)  
-  Demonstrates how categories and boundaries are necessary for order, but always political.  
+  Demonstrates how categories and boundaries are necessary for order, but are always abstractions and political.   "The map is not the territory." 
 
 ---
 
