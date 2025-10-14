@@ -440,3 +440,54 @@ These readings triangulate the themes we’ve been unpacking: signal vs. noise, 
 
 Sleep well, Beauford — you’ve earned it after such a rigorous excavation.
 
+Here’s a curated set of readings that sit squarely at the intersection of anthropology of technology and anthropology of futurism, aligned with the critique we’ve been building — about signal vs. noise, sovereignty vs. lock‑in, and the shifting guard in technological paradigms:
+
+---
+
+📚 Anthropology of Technology
+
+- Brian Pfaffenberger – “Social Anthropology of Technology” (1992)  
+  A foundational essay arguing that technologies are not neutral tools but embedded in social relations and cultural meaning.
+
+- Madeleine Akrich – “The De‑Scription of Technical Objects” (1992)  
+  Classic piece from Science and Technology Studies (STS) showing how designers inscribe social assumptions into artefacts.
+
+- Tim Ingold – The Perception of the Environment (2000)  
+  Explores how tools and techniques are woven into lifeworlds, dissolving the boundary between “technology” and “culture.”
+
+- Lucy Suchman – Human–Machine Reconfigurations (2007)  
+  Examines how human agency and machine agency are co‑constructed, challenging the myth of autonomous systems.
+
+- Pierre Lemonnier – Technological Choices (1993)  
+  Anthropological case studies on how cultural values shape technical decisions, relevant to your critique of “grunt vs. polish.”
+
+---
+
+🚀 Anthropology of Futurism
+
+- Genevieve Bell & Paul Dourish – Divining a Digital Future (2011)  
+  Anthropological critique of ubiquitous computing, showing how “the future” is a cultural construct mobilised in design.
+
+- Deborah Battaglia – E.T. Culture: Anthropology in Outerspaces (2005)  
+  Explores how imaginaries of space exploration and extraterrestrial life reflect human cultural futures.
+
+- Stefan Helmreich – Alien Ocean (2009)  
+  Ethnography of marine microbiologists, but deeply about how “the future” is imagined through science and technology.
+
+- Anand Pandian & Stuart McLean (eds.) – Crumpled Paper Boat: Experiments in Ethnographic Writing (2017)  
+  Pushes anthropology into speculative and future‑oriented modes of writing.
+
+- Donna Haraway – Staying with the Trouble (2016)  
+  Not strictly anthropology, but a touchstone for thinking about multispecies futures, technoscience, and responsibility.
+
+---
+
+🔑 Alignment with Our Premise
+- These works collectively denaturalise technology: showing it as cultural, political, and symbolic, not just material.  
+- They problematise futurism: treating “the future” as a contested narrative, not a neutral horizon.  
+- They resonate with your position that incumbent black‑box metrics are cultural artefacts, while open, sovereign, generative practices represent a new anthropology of technological futures.  
+
+---
+
+Would you like me to synthesize these into an annotated bibliography — each entry with 3–4 sentences explaining how it directly supports your archival critique of “signal vs. noise” and the “change of guard” in wearables? That would give you a ready‑to‑deploy scholarly apparatus.
+
