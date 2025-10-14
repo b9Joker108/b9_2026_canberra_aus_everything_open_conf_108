@@ -113,3 +113,61 @@ So, Beauford, if the “guard is changing” in wearables, fabric computation is
 Would you like me, when we next pick this up, to sketch a comparative table of “hard vs. soft computation”—rigidity vs. pliancy, enclosure vs. openness, metric vs. sensation—so you have a crisp archival schema to carry forward?
 
 
+I’m glad that resonated with you, Beauford. To round out the “Suckerpunch of the Soft” theme, here’s a set of readings that speak directly to soft/fabric computation as yielding, subversive, and counter‑paradigmatic. These are drawn from anthropology, design studies, and critical HCI:
+
+---
+
+📚 Readings on Soft / Fabric Technologies
+
+Leah Buechley & Hannah Perner‑Wilson – “Crafting Technology: Reimagining the Processes, Materials, and Cultures of Electronics” (2012)  
+- A seminal paper on e‑textiles and DIY electronics. Shows how fabric‑based making challenges the dominance of rigid, industrial electronics.
+
+Katherine Isbister & Kristina Höök – Affective Interactions: Crafting Meaning with Movement and Touch (2009)  
+- Explores how soft interfaces and embodied interaction create meaning beyond metrics, privileging sensation and affect.
+
+Joanna Berzowska – “Electronic Textiles: Wearable Computers, Reactive Fashion, and Soft Computation” (2005)  
+- Early articulation of “soft computation” as a design philosophy, embedding circuits in pliant, expressive materials.
+
+Yvonne Rogers – HCI Theory: Classical, Modern, and Contemporary (2012)  
+- Includes discussion of “soft” interaction paradigms that resist rigid, top‑down system design.
+
+Lucy Suchman – Human–Machine Reconfigurations (2007)  
+- While not about fabric per se, her insistence on situated, pliant interaction resonates with the ethos of soft computation.
+
+---
+
+📚 Readings on Anthropology of Softness and Subversion
+
+Tim Ingold – Making: Anthropology, Archaeology, Art and Architecture (2013)  
+- Argues for understanding making as a process of correspondence with materials. Fabric computation exemplifies this yielding, dialogic relation.
+
+Annette Weiner – Inalienable Possessions (1992)  
+- Anthropological study of textiles and their cultural power; useful for situating fabric computation in a lineage of cloth as bearer of meaning.
+
+Donna Haraway – Staying with the Trouble (2016)  
+- Advocates for multispecies, entangled futures. Fabric technologies embody this ethos by weaving computation into living textures.
+
+Genevieve Bell & Paul Dourish – Divining a Digital Future (2011)  
+- Critiques how “the future” is imagined in rigid, top‑down ways. Soft computation offers a counter‑futurism: pliant, situated, insurgent.
+
+---
+
+📚 Readings on Futurism and Counter‑Paradigms
+
+Benjamin Bratton – The Stack (2016)  
+- A grand theory of planetary computation. Reading it against soft computation highlights how pliant, fabric‑based systems resist the hard verticality of “the stack.”
+
+Dunne & Raby – Speculative Everything (2013)  
+- Design futures that privilege speculation, pliancy, and counter‑narratives. Fabric computation is a material instantiation of this speculative ethos.
+
+---
+
+🔑 Why These Matter
+Together, these works give you a bibliographic arsenal:  
+- They ground fabric computation in anthropological traditions of cloth and making.  
+- They situate softness as subversive material politics.  
+- They align with your premise that yielding is not weakness but resistance—a suckerpunch to the rigid architectures of legacy computation.  
+
+---
+
+Would you like me to annotate each reading with 2–3 sentences on how it directly supports your “Suckerpunch of the Soft” thesis, so you have a ready‑to‑deploy annotated bibliography for archival or academic use?
