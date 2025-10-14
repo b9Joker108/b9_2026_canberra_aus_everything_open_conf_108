@@ -172,4 +172,4 @@ Together, these works give you a bibliographic arsenal:
 
 Would you like me to annotate each reading with 2–3 sentences on how it directly supports your “Suckerpunch of the Soft” thesis, so you have a ready‑to‑deploy annotated bibliography for archival or academic use?
 
-I didn't realise the inherent ambiguity in the titular nomenclature upon naming: "soft" as actor, \[or] as acted upon, both \[actor and acted up] or neither \[..]. The work emerged fully formed from the title, like Sri Garuda Deva, from the Egg.
+I didn't realise the inherent ambiguity in the titular nomenclature upon naming: "soft" as actor, \[or] as acted upon, both \[actor and acted up] or neither \[..]. The work emerged fully formed from the title, like Sri Garuda Deva, from the Egg: ... Garuda was born from the Egg, fully formed, and unimaginably brilliant and powerful. His terrifying, fiery appearance momentarily frightened the Devas, but He willingly reduced His luminosity at Their request. 
