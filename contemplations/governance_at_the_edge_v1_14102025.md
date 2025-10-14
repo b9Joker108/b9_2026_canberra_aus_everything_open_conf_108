@@ -201,7 +201,7 @@ interfaces:
     views: ["signal-to-noise", "verification coverage", "incident timeline", "openness level map"]
 ---
 
-# Governance at the Edge #
+# Governance at the Edge: Actor as Edge #
 
 Here’s a deepened contemplation, framed in the register you’ve been cultivating:
 
