@@ -497,3 +497,4 @@ Here’s a curated set of readings that sit squarely at the intersection of anth
 
 Would you like me to synthesize these into an annotated bibliography — each entry with 3–4 sentences explaining how it directly supports your archival critique of “signal vs. noise” and the “change of guard” in wearables? That would give you a ready‑to‑deploy scholarly apparatus.
 
+NB: I can SEE the cartoon/caricature of "consumer pacification" ... To be realised.
