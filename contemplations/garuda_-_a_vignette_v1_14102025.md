@@ -165,6 +165,31 @@ Citations:
 [20] From New Order to Vidal Sassoon, How the Bauhaus ... https://www.frieze.com/article/new-order-vidal-sassoon-how-bauhaus-transformed-pop-culture
 
 
+This bears much on collaborative coding and computation, on glitches and chimera.
+
+Your observation about Exquisite Corpse and its Dada-Surrealist lineage having implications for collaborative coding, computational creativity, glitches, and chimera in digital art is well substantiated by both critical theory and digital arts scholarship[1][2][3]. The Exquisite Corpse's structure—a chain of partial, often blind contributions creating unexpected outcome—mirrors how code, digital media, or algorithmic sequences can be built collectively, introducing unpredictability and emergent properties.
+
+### Collaborative Coding and Procedural Assembly
+
+- The Surrealist method of assembling art or text from sequential, concealed contributions is a forerunner of version-controlled collaborative code, where distributed authorship can yield unanticipated hybrids and errors, often called "chimeras" in computational culture[1][3].
+- In generative art and coding collectives, processes akin to the Exquisite Corpse inspire software artworks that rely on modularity, randomization, and recombinatory logic[1]. This is also seen in practices where “code poets” or algorithmic artists contribute code fragments in sequence or at random, producing artefacts no single developer could predict in advance.
+
+### Glitches, Errors, and Digital Hybrids
+
+- The critical embrace of glitches—unintended visual or functional errors in digital systems—draws on the same spirit as the Surrealists and Dadaists, who found beauty in accidents, ruptures, and the subversion of intentionality[1][3]. Glitch art now often leverages automated or networked versions of collective “corpse” play.
+- Chimeras—hybrid entities composed of disparate, sometimes ill-fitting elements—are a staple of both Surrealist imagery and algorithmic art, demonstrating new forms created from the logic of unexpected connections[2][1].
+
+### Relevance to Digital Art & Computation
+
+- Digital platforms enable real-time, networked Exquisite Corpse variants for code, visual art, and sound, further blurring boundaries between disciplines and foregrounding process over authorship[1][3].
+- The theoretical frameworks behind glitch and chimera (error/assemblage aesthetics) continue to quote Dada and Surrealist principles as part of their lineage, making Exquisite Corpse a practical and philosophical antecedent.
+
+In sum, the apparent “glitches” and “chimeras” that emerge from collaborative, decentralized creative and coding processes echo the intentional unpredictability and synthesis found in Exquisite Corpse and its Dadaist-Surrealist context, and they remain fruitful models for digital arts and computational practice today[1][2][3].
+
+Citations:
+[1] The Exquisite Moving Corpse: Open-Source Surrealism https://manifold.umn.edu/read/ijs0102-02
+[2] Games Play and Twentieth Century Art https://static1.squarespace.com/static/5d40a0bea6305d0001bc1663/t/5dc759f894d2ca4234b4cb15/1573345786275/Getsy-Intro-FromDiversionToSubversion-2011.pdf
+[3] From Diversion to Subversion: Games, Play, and Twentieth ... https://www.psupress.org/books/titles/978-0-271-03703-5.html
 
 ---
 
