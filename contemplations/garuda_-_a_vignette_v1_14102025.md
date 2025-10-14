@@ -123,6 +123,49 @@ Citations:
 [20] Exquisite Corspe Exhibition https://www.theartsection.com/exquisite-corspe-exhibition
 
 
+
+That's right, I ascertained it had it provenance in Dadaist collage cut-up and chance drops that was also a nod to play in the bauhaus school.
+
+Your insight about Exquisite Corpse drawing upon Dadaist collage, cut-up, and chance operations is confirmed throughout modern scholarship and exhibition history, even though its most formalized version is associated with the Surrealists[1][2][3]. The technique continues Dada's fascination with collective creation, randomness, and subversion of linear logic—tropes seen in Dada collage (as in the works of Kurt Schwitters and Hannah Höch) and "cut-up" poetry games pioneered by Tristan Tzara[3][2]. Surrealist artists themselves openly acknowledged their inheritance from these Dadaist experiments with chance, automatism, and group play[1][3].
+
+### Influence of Dada and Bauhaus Play
+
+- Dadaists developed collage and cut-up as both visual and literary methods, using chance, unpredictability, and juxtaposition as anti-rational, anti-bourgeois principles[3][2].
+- The Surrealists adapted these models, especially cut-up and collective collage, reinscribing them into psychic automatism and group authorship (hence, the “mental contagion” Breton described)[3][1].
+- Games and playful rule-based exercises were also emphasized in Bauhaus pedagogy, which, according to art historical research, fed into the Surrealists' and Duchamp's experiments in collaborative and procedural art[4][5].
+- The Surrealist focus on games as both structure and subversion parallels the ludic practices of Bauhaus teachers like Johannes Itten and Paul Klee, who encouraged improvisational play as a key to unlocking creativity[4][5].
+
+### Cut-Up and Collage in Surrealist and Post-Dada Practices
+
+- The cut-up literary technique was widely acknowledged as a Dadaist innovation but later absorbed by Surrealist writers and artists in forms such as the Exquisite Corpse[2][6].
+- Exquisite Corpse itself has often been practiced using collage, with rules echoing Tzara’s earlier Dada poetry instructions for pulling words or images blindly from a bag or pile and assembling them in random order[6][2].
+
+In sum, while the formal Surrealist game emerged after the Dada heyday, its genealogical roots in Dada collage, chance, and playful/nonlinear assembly are both historically rich and widely recognized by modern scholars and exhibitions[1][3][2]. Connections to Bauhaus games and pedagogies around play further reinforced these cross-movement influences on twentieth-century art practice[4][5].
+
+Citations:
+[1] Exquisite corpse | History, Drawing, Game, Artists ... https://www.britannica.com/art/exquisite-corpse
+[2] Surrealist techniques https://en.wikipedia.org/wiki/Surrealist_techniques
+[3] i Creative and the Exquisite Corpse - The Exhibition https://www.robbyersuk.com/i-creative-and-the-exquisite-corpse.html
+[4] Games Play and Twentieth Century Art https://static1.squarespace.com/static/5d40a0bea6305d0001bc1663/t/5dc759f894d2ca4234b4cb15/1573345786275/Getsy-Intro-FromDiversionToSubversion-2011.pdf
+[5] From Diversion to Subversion: Games, Play, and Twentieth ... https://www.psupress.org/books/titles/978-0-271-03703-5.html
+[6] Exquisite Corpse Collage https://collagevolupte.wordpress.com/2013/12/02/exquisite-corpse-collage/
+[7] Exquisite Corpse https://www.artic.edu/artworks/119116/exquisite-corpse
+[8] Cadavre exquis (exquisite corpse) https://www.tate.org.uk/art/art-terms/c/cadavre-exquis-exquisite-corpse
+[9] Who's Your Dada?: Surrealists Games in “The Exquisite ... https://bigthink.com/guest-thinkers/whos-your-dada-surrealists-games-in-the-exquisite-book/
+[10] Exquisite Corpse: The Surrealist Game | Department of English https://english.georgetown.edu/exquisite-corpse/
+[11] Academia, Bauhaus, Postmoderism and Games https://bbrathwaite.wordpress.com/2009/01/17/academia-bauhaus-postmoderism-and-games/
+[12] Cut Ups – Burroughs, Burns and the Exquisite Corpse https://andrewcrottyresearchandenquiry.wordpress.com/2017/11/23/cut-ups-burroughs-burns-and-the-exquisite-corpse/
+[13] The Exquisite Moving Corpse: Open-Source Surrealism https://manifold.umn.edu/read/ijs0102-02
+[14] Surreal Play: Group Exploration with Surrealist Games https://dmaeducatorblog.wordpress.com/2014/07/01/surreal-play-group-exploration-with-surrealist-games/
+[15] What I've used [the cut-up technique] for ... is igniting anything ... https://writinginthedark.substack.com/p/what-ive-used-the-cut-up-technique
+[16] Learn Collage - Episode 3 - Exquisite Corpse https://www.youtube.com/watch?v=YQL6fcSYOq8
+[17] Dada, Surrealism and Bauhaus | Abi Britton - WordPress.com https://abibritton.wordpress.com/2011/03/09/dada-surrealism-and-bauhaus/
+[18] COLLAGE ALL MIXED UP https://artofcollage.wordpress.com/2012/07/12/collage-all-mixed-up/
+[19] Surrealist Art Form, Exquisite Corpse, Still Fascinates ... http://artesmagazine.com/2010/06/surrealist-art-form-exquisite-corpse-still-fascinates-artists-and-collectors/
+[20] From New Order to Vidal Sassoon, How the Bauhaus ... https://www.frieze.com/article/new-order-vidal-sassoon-how-bauhaus-transformed-pop-culture
+
+
+
 ---
 
 📚 Readings
