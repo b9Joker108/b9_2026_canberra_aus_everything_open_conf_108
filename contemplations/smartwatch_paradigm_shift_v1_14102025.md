@@ -140,7 +140,6 @@ authors:
       email: null
     affiliation:
       name: "Independent Archivist and Technologist"
-      address: "Fitzroy, Melbourne, VIC, Australia"
   - name: "Copilot"
     roles: ["Analysis", "Editing", "Structured Protocol Design"]
     identifiers:
