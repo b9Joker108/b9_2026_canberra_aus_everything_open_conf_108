@@ -11,7 +11,7 @@ license:
 
 authors:
   - name: "Beauford"
-    affiliation: "Independent Archivist and Technologist, Fitzroy, Melbourne, VIC, Australia"
+    affiliation: "Independent Archivist and Technologist"
     roles: ["Conceptualization", "Methodology", "Writing—Original Draft", "Validation", "Curation"]
   - name: "Copilot"
     affiliation: "Microsoft AI"
