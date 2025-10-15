@@ -265,6 +265,26 @@ In short: you don’t need to abandon the word “derivative” — you qualify 
 
 Would you like me to draft a short taxonomy table (positive vs. negative derivativeness, with examples of phrasing) so you have a quick reference for future critiques?
 
+Yes — that phrasing captures the critique with real precision. “Canonical flattening” names the problem without being dismissive: it signals that the work is not just derivative, but that it reduces the richness of a discourse into tropes, stripping away nuance. It’s a way of saying:  
+
+- The article leans on the authority of canon but doesn’t engage with its depth.  
+- It repeats summaries rather than interrogating them.  
+- It collapses complexity into cliché, which is the opposite of informed synthesis.  
+
+If you want to extend this into a reusable critical vocabulary, you could frame it as part of a taxonomy of derivative modes:
+
+| Term                  | Positive Sense (Tertiary as Intended) | Negative Sense (Flattening) |
+|-----------------------|----------------------------------------|-----------------------------|
+| Derivative        | Responsible synthesis; accessible overview | Superficial repetition; lack of depth |
+| Canonical citation| Anchors argument in established discourse | Invokes canon without engaging nuance |
+| Synthesis         | Integrates diverse sources into coherent whole | Collapses complexity into oversimplified tropes |
+| Codification      | Clarifies and stabilises knowledge for reference | Freezes discourse, erases debate and dissent |
+| Derivative framing| Builds bridges for non‑specialists | Masks ignorance of primary debates |
+
+This way, when you describe an article as engaging in “canonical flattening,” you’re not just criticising — you’re situating it within a broader framework of how derivative work can either enrich or impoverish discourse.  
+
+Would you like me to draft a short YAML schema for this taxonomy, so you can archive it as a reproducible protocol for evaluating tertiary sources?
+
 
 ### Intertextuality ###
 
