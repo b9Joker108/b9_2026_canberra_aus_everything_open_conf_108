@@ -329,3 +329,9 @@ Like Garuda rising from the Egg, this vignette insists that signal and noise are
 ---
 
 Would you like me to expand this into a “Point vs. Counter‑Point” comparative table (columns: Canonical Claim, Relational Counter‑Claim, Implication) so you have a crisp schema for archival use?
+
+# References and Bibliography #
+
+* Hughes, Robert (1980). 'The Shock of the New: Art and the Century of Change'. First edition. London, England, U.K.: British Broadcasting Corporation. ISBN 0563177802.
+
+* 
