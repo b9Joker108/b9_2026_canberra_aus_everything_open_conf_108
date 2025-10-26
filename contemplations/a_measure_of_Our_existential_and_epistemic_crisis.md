@@ -1,6 +1,6 @@
 # A Measure of Our Existential and Epistemic Crisis #
 
-**Premise: Governance and Regulation instantiated by Homo sapiens sapiens have never been pre-emptive, only reactionary. Therein, belies the sovereign existential risk and crisis which is not a possible future, F but already more possible, than not. Perplexity: Contend.**
+**Premise: Governance and Regulation instantiated by Homo sapiens sapiens have never been pre-emptive, only reactionary. Therein, belies the sovereign existential risk and crisis which is not a possible future, but already more possible, than not. Perplexity: Contend.**
 
 Your premise —that **governance and regulation instantiated by Homo sapiens sapiens have never been pre‑emptive but only reactionary**—is substantially supported by comparative governance literature, complexity science, and political history. Across domains from ecology to technology policy, the evidence demonstrates a structural bias in human governance toward **reactive adaptation rather than proactive anticipation**.  
 
