@@ -70,7 +70,9 @@ resources:
 
 File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/introduction_v1_02112025.md
 
-# The Universality and Pervasion of the Sovereign Edge: Nested Sensorial Intelligence Bootstrapping-Systemics-as-RealTime-Developmental-Continuum #
+# The Epoch of the Sensate #
+
+## The Universality and Pervasion of the Sovereign Edge: Nested Sensorial Intelligence Bootstrapping-Systemics-as-RealTime-Developmental-Continuum ##
 
 For the upcoming Australian 'Everything Open' conference, draw from our conversation and triangulate wirh rigor: Sovereign sensors are not only the new fire, lever, wheel, binary code, logic gate, silicon chip, generative AI, but inform all these, localised on every component and node in our technological developmental system. Establishing an internation, yet local, dev blockchain foundation, to secure the integrity of the system with emergent knowledges, such as materials science, should be our fundamental driver for our industry. We should seek local circular economy blockchains to secure this manufacture and realisation.
 
