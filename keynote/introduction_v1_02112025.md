@@ -1,5 +1,5 @@
 ---
-header: "The Epoch of the Sensate"
+header: "The Epoch of the Sensate: An Elegant Defensable and Domestic Solution"
 title: "The Universality and Pervasion of the Sovereign Edge"
 subtitle: "Nested Sensorial Intelligence Bootstrapping—Systemics as a Real-Time Developmental Continuum"
 author: "Perplexity AI Assistant based on User Vision"
