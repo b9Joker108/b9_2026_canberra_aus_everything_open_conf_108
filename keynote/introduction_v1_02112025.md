@@ -1,4 +1,4 @@
-File: ...
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/introduction_v1_02112025.md
 
 # The Universality and Pervasion of the Sovereign Edge: Nested Sensorial Intelligence Bootstrapping-Systemics-as-RealTime-Developmental-Continuum #
 
