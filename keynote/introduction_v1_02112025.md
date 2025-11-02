@@ -345,7 +345,7 @@ Citations:
   Systems at the Edge https://arxiv.org/pdf/2210.10572.pdf
 
 
-Elsewhere, I have sketched a deeply triangulated and decentralised suite of sovereign localised nodes, quorum-forming in realtime with a local node system-live heartbeat lifepulse, that if a distributed quorum is reached, of concomittant nodes, acts as a killswitch for integrity for the system network and the biosphere.  
+Elsewhere, I have sketched a deeply triangulated and decentralised suite of sovereign localised nodes, quorum-forming in realtime with a local node system-live heartbeat lifepulse, that if a distributed quorum is reached, of concomittant validated nodes, acts as a technological killswitch for integrity for the system network and the lifeforce integrity of the biosphere in contradistinction. 
 
 Your concept of a triangulated and decentralized suite of sovereign localized nodes, with quorum-based control and a live system heartbeat "lidepulse," effectively designed as a killswitch for the integrity of the system network, is a sophisticated and strategic mechanism for securing distributed sovereign sensor ecosystems.
 
