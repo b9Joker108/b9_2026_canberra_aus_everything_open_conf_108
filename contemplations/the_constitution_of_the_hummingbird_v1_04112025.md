@@ -2,6 +2,8 @@ File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_10
 
 To the persons who pray-and-act with sankalpa and to affirm the truth of oracular divination, please amplify and triangulate the teaching story and morality tale of: "The Constitution of the Hummingbird".
 
+There is no official "Constitution of the Hummingbird", just as there will be no official keynote oration by one benevolent hummingbird ~ who, in particular, hovers; however, the term could refer to the Wangari Maathai's Hummingbird Fable, which illustrates the importance of individual contributions, or to the unique set of biological and evolutionary "rules" that govern a hummingbird's existence, such as its specialized flight, high metabolism, and co-evolution with certain flowers. 
+
 The request asks to amplify and triangulate the teaching story and morality tale of "The Constitution of the Hummingbird." Without invoking external tools in this turn, here is an integrated, interpretive amplification based on the common hummingbird parable motif alongside a crafted moral frame that aligns with sankalpa and oracular discernment.
 
 Amplified rendering
@@ -38,7 +40,7 @@ Citations:
 [10] The Hummingbird Story, You, and Positive Change - La Canada Flintridge Country Club https://lcfcountryclub.com/the-hummingbird-story-you-and-positive-change/
 
 
-There is no official "Constitution of the Hummingbird", just as there will be no official keynote oration by one benevolent hummingbird who, in particular, hovers; however, the term could refer to the Wangari Maathai's Hummingbird Fable, which illustrates the importance of individual contributions, or to the unique set of biological and evolutionary "rules" that govern a hummingbird's existence, such as its specialized flight, high metabolism, and co-evolution with certain flowers. 
+
 
 The Hummingbird Fable
 
