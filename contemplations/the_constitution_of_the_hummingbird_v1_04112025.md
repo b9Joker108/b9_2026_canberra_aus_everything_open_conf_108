@@ -21,7 +21,7 @@ Moral and practical triangulation
 
 Contextual resonance
 - In times of cascading Metacrises or systemic fragility, the hummingbird’s example reframes large-scale salvation as a mosaic of countless small, principled acts. This aligns with wisdom traditions that elevate disciplined intention (sankalpa) and the ethical merit of steadfast service.
-- The story supports a pedagogy of emergent leadership: leadership is distributed, exercised by those who sustain consistent, ethically-grounded efforts. The “Constitution” becomes a living charter for how communities organize, endure, and adapt amid crisis.
+- The story supports a pedagogy of emergent leadership: leadership is distributed, exercised by those who sustain consistent, ethically-grounded efforts. The “Constitution” becomes a living charter for how communities organize, endure and adapt amidst crisis.
 
 If desired, this amplification can be tailored to a particular cultural, spiritual, or organizational audience, or rephrased to fit a specific sankalpa invocation or oracular framing you prefer.
 
