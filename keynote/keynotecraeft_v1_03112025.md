@@ -1,3 +1,70 @@
+title: "Epoch-Defining Keynote: Ontology & Taxonomy"
+subtitle: "Structuring the Knowledge of a Defining Era"
+date: 2025-11-03
+authors:
+  - name: "Dr. Ada Lovelace"
+    affiliation: "Future Institutes Alliance"
+  - name: "Prof. Alan Turing"
+    affiliation: "Epoch Society"
+version: "1.0"
+license: "CC BY-SA 4.0"
+tags:
+  - ontology
+  - taxonomy
+  - keynote
+  - epoch
+  - knowledge-graph
+category: "Keynote Documentation"
+description: |
+  This document establishes the ontology and taxonomy underpinning the Epoch-Defining Keynote, outlining the foundational concepts, relationships, and hierarchies that shape this transformative period.
+ontology:
+  context: "epoch-defining-keynote"
+  namespace: "https://future.org/ontology/epoch-keynote#"
+  base_class: "EpochEvent"
+  classes:
+    - id: EpochEvent
+      label: "Epoch Event"
+      description: "A milestone event marking a paradigm shift."
+    - id: Visionary
+      label: "Visionary"
+      description: "A person or entity driving epochal transformation."
+    - id: Innovation
+      label: "Innovation"
+      description: "A breakthrough technology, idea, or practice."
+    - id: Impact
+      label: "Impact"
+      description: "The resulting change or influence of the epoch event."
+    - id: Legacy
+      label: "Legacy"
+      description: "Long-term effects and enduring contributions."
+  relationships:
+    - id: defines
+      domain: EpochEvent
+      range: Innovation
+      description: "An epoch event defines one or more innovations."
+    - id: led_by
+      domain: EpochEvent
+      range: Visionary
+      description: "Epoch event is led by a visionary."
+    - id: results_in
+      domain: Innovation
+      range: Impact
+      description: "Innovation results in impact."
+    - id: leaves
+      domain: Impact
+      range: Legacy
+      description: "Impact leaves a legacy."
+taxonomy:
+  root: "Epoch Event"
+  branches:
+    - Visionary
+    - Innovation
+    - Impact
+    - Legacy
+layout: keynote-ontology
+showMiniToc: true
+---
+
 File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/keynotecraeft_v1_03112025.md
 
 ## 🚀 Pith Instructions for Crafting an Epoch-Defining Keynote
@@ -334,3 +401,209 @@ November 03, 2025
 121. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=AI%2Dpowered%20visualization%20tools%20has,by%2045%25%20since%202017)
 122. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=AR%2Dbased%20visualization%20tools%20increase,of%20data%20by%2030%25)
 123. **40+ Best Cool Keynote Templates (Awesome Design for 2025) | Nuilvo**. [https://www.nulivo.com](https://www.nulivo.com/blog/40-best-cool-keynote-templates#:~:text=If%20you%20are%20looking,ideas%20for%20the%20first)
+
+
+%20act%20provides,the%20stage%20for%20the)
+46. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%20Duarte%20Method%3A%20Start,the%20story%2C%20not%20the)
+47. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=The%20Hook%20should%20get,a%20sense%20of%20what%C3%A2s)
+48. **How to move presentation audiences with structure and story | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/move-presentation-audience-with-story-techniques-in-presentations/#:~:text=Starts%20off%20with%20%27what,be%27%20in%20almost%20perfect)
+49. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%20Duarte%20Method%3A%20Nancy,and%20drive%20the%20narrative)
+50. **The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories**. [https://tomtunguz.com](https://tomtunguz.com/storytelling-duarte/#:~:text=Great%20pitches%20oscillate%20between,is%20and%20what%20could)
+51. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=In%20a%20keynote%20speech%2C,%28i.e.%2C%20supporting%20metrics%20and)
+52. **How to move presentation audiences with structure and story | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/move-presentation-audience-with-story-techniques-in-presentations/#:~:text=The%20speech%20ends%20high,by%20describing%20the%20%27new)
+53. **HBR Guide to Persuasive Presentations**. [https://books.google.com](https://books.google.com/books/about/HBR_Guide_to_Persuasive_Presentations.html?id=0zuGc0Yix3EC#:~:text=call%20to)
+54. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=Situation%2DComplication%2DResolution%20is%20a%20common%20presentation%20structure)
+55. **The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories**. [https://tomtunguz.com](https://tomtunguz.com/storytelling-duarte/#:~:text=template%20follows%20the%20Situation%2C,Complication%2C%20Question%20and%20Answer)
+56. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=fassforward%20formula%3A)
+57. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=The%20Payoff%20lets%20you,Connect%20back%20to%20your)
+58. **How to move presentation audiences with structure and story | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/move-presentation-audience-with-story-techniques-in-presentations/#:~:text=In%20really%20great%20speeches%2C,tension%20and%20releases%20it)
+59. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=That%20structure%20creates%20power,concept%20of%20tension%20and)
+60. **Presentation storytelling 101: Your audience is the hero | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/presentation-storytelling-audience-is-hero/#:~:text=the%20mentor%20acknowledges%20their,hardships%20and%20validates%20their)
+61. **Presentation storytelling 101: Your audience is the hero | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/presentation-storytelling-audience-is-hero/#:~:text=By%20empathizing%20with%20your,ultimately%2C%20help%20solve%20their)
+62. **How to move presentation audiences with structure and story | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/move-presentation-audience-with-story-techniques-in-presentations/#:~:text=Contrast%20and)
+63. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=Duarte%20suggests%20switching%20the,is%2C%20and%20what%20could)
+64. **The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories**. [https://tomtunguz.com](https://tomtunguz.com/storytelling-duarte/#:~:text=best%20presenters%20contrast%20the,the%20future%20throughout%20the)
+65. **Challenging Cognitive Load Theory: The Role of Educational Neuroscience and Artificial Intelligence in Redefining Learning Efficacy - PMC**. [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/#:~:text=Extraneous%20cognitive%20load%20results%20from%20poor%20instructional)
+66. **Understanding Cognitive Load in Digital and Online Learning: a New Perspective on Extraneous Cognitive Load | Educational Psychology Review**. [https://link.springer.com](https://link.springer.com/article/10.1007/s10648-021-09624-7#:~:text=extraneous%20cognitive%20load%20should,actual%20learning%20to%20take)
+67. **Cognitive Load Theory: A teacher's guide**. [https://www.structural-learning.com](https://www.structural-learning.com/post/cognitive-load-theory-a-teachers-guide#:~:text=Intrinsic%20load%20relates%20to,from%20poorly%20designed%20instructional)
+68. **Cognitive Load Theory: A teacher's guide**. [https://www.structural-learning.com](https://www.structural-learning.com/post/cognitive-load-theory-a-teachers-guide#:~:text=Using%20more%20than%20a,a%20students%27%20attention%20between)
+69. **Challenging Cognitive Load Theory: The Role of Educational Neuroscience and Artificial Intelligence in Redefining Learning Efficacy - PMC**. [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/#:~:text=emotionally%20salient%20learning%20materials%20enhance%20the%20neurobiological%20mechanisms%20of%20memory%20consolidation)
+70. **Story Structures â How to make your messages work. | fassforward**. [https://www.fassforward.com](https://www.fassforward.com/our-thinking/story-structures-how-to-make-your-messages-work#:~:text=Nancy%20Duarte%20uses%20a,to%20analyze%20and%20build)
+71. **Story structure – the hidden framework that hangs your story together**. [https://www.presentation-guru.com](https://www.presentation-guru.com/on-structure-the-hidden-framework-that-hangs-your-story-together/#:~:text=Your%20story%20can%E2%80%99t%20be,to%20analyze%20and%20build)
+72. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%20Duarte%20Method%3A%20Once,using%20The%20Big%20Idea%E2%84%A2)
+73. **Garr Reynolds**. [https://www.garrreynolds.com](https://www.garrreynolds.com#:~:text=The%20principles%20of%20restraint%2C,are%20key%20to%20your)
+74. **Garr Reynolds**. [https://www.garrreynolds.com](https://www.garrreynolds.com#:~:text=We%20must%20design%20our,of%20how%20people%20process)
+75. **Presentation storytelling 101: Your audience is the hero | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/presentation-storytelling-audience-is-hero/#:~:text=your%20audience%20is%20the,your%20company%2C%20or%20your)
+76. **Presentation storytelling 101: Your audience is the hero | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/presentation-storytelling-audience-is-hero/#:~:text=In%20Duarte%E2%80%99s%20model%2C%20the,the%20role%20of%20the)
+77. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%203%2Dact%20structure%20is,the%20setup%2C%20confrontation%2C%20and)
+78. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%20clear%20division%20into,audience%20to%20digest%20and)
+79. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=the%20most%20widely%20used,storytelling%20framework%3A%20The%203%2Dact)
+80. **HBR Guide to Persuasive Presentations**. [https://books.google.com](https://books.google.com/books/about/HBR_Guide_to_Persuasive_Presentations.html?id=0zuGc0Yix3EC#:~:text=Add%20Emotional)
+81. **Cognitive Load Theory: How to Optimize Learning - Let's Go Learn**. [https://www.letsgolearn.com](https://www.letsgolearn.com/education-reform/cognitive-load-theory-how-to-optimize-learning/#:~:text=The%20instructional%20designer%20should,should%20reduce%20distractions%2C%20over%2Dcomplexity%2C)
+82. **How to move presentation audiences with structure and story | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/move-presentation-audience-with-story-techniques-in-presentations/#:~:text=The%20end%20of%20your,end%20with%20a%20%27new)
+83. **3-Act Structure for Good Business Communication | Duarte**. [https://www.duarte.com](https://www.duarte.com/blog/business-communication-demands-3-act-story-structure/#:~:text=The%20resolution%20provides%20closure,with%20a%20clear%2C%20memorable)
+84. **The Three Frameworks You Need to Create Powerful Presentations and Tell Compelling Stories**. [https://tomtunguz.com](https://tomtunguz.com/storytelling-duarte/#:~:text=Resonate%20is%20a%20powerful,compelling%2C%20memorable%20and%20trajectory%2Dchanging)
+85. **HBR Guide to Persuasive Presentations (HBR Guide Series) (Harvard Business Review Guides): Duarte, Nancy: 9781422187104: Amazon.com: Books**. [https://www.amazon.com](https://www.amazon.com/Persuasive-Presentations-Harvard-Business-Review/dp/1422187101#:~:text=Since%201988%2C%20Duarte%20works,presentations.%20Here%20you%20will)
+86. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=embracing%20minimalism%20for%20clean)
+87. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=using%20ample%20white%20space,create%20a%20clean%2C%20uncluttered)
+88. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=incorporating%20minimal%20text%2C%20often,key%20phrases%20and%20high%2Dquality)
+89. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=using%20big%2C%20bold)
+90. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Bold%20typography%20takes%20center,large%20text%20and%20clean)
+91. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Titles%20and%20headings%20are%20enlarged%20to%20create)
+92. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Popular%20combinations%20like%20black,create%20a%20strong%20visual)
+93. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=Adding%20color%20can%20increase,as%20much%20as%2073%25)
+94. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=Information%20that%20uses%20color,be%20located%2070%25%20faster)
+95. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Full%2Dscreen%20images%20serve%20as%20striking)
+96. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=short%20videos%20and%20custom%20illustrations%20enhance)
+97. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=visual%20storytelling%20techniques%2C%20high%2Dquality,videos%2C%20and%20engaging%20motion)
+98. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Simple%20charts%2C%20infographics%2C%20and,highlight%20key%20design%20elements)
+99. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Doodle%2Dstyle%20graphics%20bring%20a,design%20while%20simplifying%20complex)
+100. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=hand%2Ddrawn%20visuals%2C%20including%20icons%20and%20characters)
+101. **How Cognitive Load Impacts Data Visualization Effectiveness | Datafloq**. [https://datafloq.com](https://datafloq.com/read/how-cognitive-load-impacts-data-visualization-effectiveness/#:~:text=This%20has%20sparked%20a,the%20user%20in%20mind.%0AStudies)
+102. **Improving Data Visualization With Cognitive Science (2025-2026) | Bass Connections**. [https://bassconnections.duke.edu](https://bassconnections.duke.edu/project/improving-data-visualization-cognitive-science-2025-2026/#:~:text=Many%20data%20visualization%20practices,and%20manipulating%20information%20during)
+103. **Improving Data Visualization With Cognitive Science (2025-2026) | Bass Connections**. [https://bassconnections.duke.edu](https://bassconnections.duke.edu/project/improving-data-visualization-cognitive-science-2025-2026/#:~:text=some%20redundancy%20of%20visual,helpful%20for%20learning%20and)
+104. **Decision making with visualizations: a cognitive framework across disciplines | Cognitive Research: Principles and Implications | Full Text**. [https://cognitiveresearchjournal.springeropen.com](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-018-0120-9#:~:text=salient%20features%20captured%20viewers%E2%80%99,to%20effectively%20interpret%20the)
+105. **Decision making with visualizations: a cognitive framework across disciplines | Cognitive Research: Principles and Implications | Full Text**. [https://cognitiveresearchjournal.springeropen.com](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-018-0120-9#:~:text=saliency%20may%20direct%20viewers%E2%80%99,the%20affordances%20of%20the)
+106. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=Visual%20storytelling%20improves%20audience%20retention%20by%2068%25)
+107. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=User%20engagement%20rates%20are,47%25%20with%20interactive%20visuals)
+108. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Personalization%20and%20AI%20are,it%20faster%20and%20more)
+109. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=AI%2Dpowered%20tools%20streamline%20workflows%2C,templates%20tailored%20to%20audience)
+110. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=AI%20tools%20improve%20data,interpretation%20accuracy%20by%2048%25)
+111. **Exploring Data Visualization Psychology | Toptal®**. [https://www.toptal.com](https://www.toptal.com/designers/data-visualization/data-visualization-psychology#:~:text=Designers%20would%20benefit%20from,sensory%20inputs%2C%20the%20amount)
+112. **4 presentation trends for 2025 – Microsoft 365**. [https://www.microsoft.com](https://www.microsoft.com/en-us/microsoft-365-life-hacks/presentations/four-presentation-trends-for-2025#:~:text=Instead%20of%20having%20these,their%20own.%0ABy%20using%20black)
+113. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=Presentations%20with%20highlight%20color,reading%20comprehension%20by%2014%25)
+114. **Best Keynote Templates For Presentations 2025 - SlideSalad**. [https://www.slidesalad.com](https://www.slidesalad.com/product-category/keynote-templates/#:~:text=We%20update%20our%20keynote,of%20cinematic%20elements%20and)
+115. **150+ Best Keynote Templates of 2025 | Design Shack**. [https://designshack.net](https://designshack.net/articles/inspiration/best-keynote-templates/#:~:text=Looking%20to%20give%20your,template%20comes%20with%2030)
+116. **AI4VA@ICCV 2025**. [https://sites.google.com](https://sites.google.com/view/ai4vaiccv-2025#:~:text=Today%2C%20artificial%20intelligence%2C%20machine,by%2013th%20October%2C%202025)
+117. **Keynote Presentations | SIGGRAPH 2025**. [https://s2025.siggraph.org](https://s2025.siggraph.org/program/keynote-presentations/#:~:text=Goyer%20will%20be%20joined,research%20%28design%2C%20manufacturing%2C%20architecture%2C)
+118. **9 leading presentation design agencies in 2025 - Pitch Deck Studios**. [https://www.pitchdeckstudios.com](https://www.pitchdeckstudios.com/9-leading-presentation-design-agencies-in-2025/#:~:text=This%20holistic%20approach%20makes,vibrant%20designs%20and%20multimedia)
+119. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=Bold%2C%20contrasting%20colors%20dominate,presentation%20design%20trends%20in)
+120. **Presentation Design Trends for 2025: What to Look Forward to**. [https://decksherpa.com](https://decksherpa.com/blog/presentation-design-trends-2025/#:~:text=strategic%20use%20of%20layouts%2C,schemes%2C%20typography%2C%20and%20multimedia)
+121. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=AI%2Dpowered%20visualization%20tools%20has,by%2045%25%20since%202017)
+122. **The Power of Data Visualization: Insights, Tools, & Best Practices**. [https://www.spiralytics.com](https://www.spiralytics.com/blog/data-visualization-insights-tools-best-practices/#:~:text=AR%2Dbased%20visualization%20tools%20increase,of%20data%20by%2030%25)
+123. **40+ Best Cool Keynote Templates (Awesome Design for 2025) | Nuilvo**. [https://www.nulivo.com](https://www.nulivo.com/blog/40-best-cool-keynote-templates#:~:text=If%20you%20are%20looking,ideas%20for%20the%20first)
+
+
+#### Thank you for clarifying your context!
+
+Let’s tailor a **detailed YAML frontmatter** for a GitHub Markdown (`*.md`) file that introduces and documents the **ontology and taxonomy** relevant to an **Epoch-Defining Keynote**—suitable for flagship documentation, academic, and organizational use.
+
+---
+
+#### 🏷️ YAML Frontmatter for an Epoch-Defining Keynote Ontology/Taxonomy
+
+```yaml
+---
+title: "Epoch-Defining Keynote: Ontology & Taxonomy"
+subtitle: "Structuring the Knowledge of a Defining Era"
+date: 2025-11-03
+authors:
+  - name: "Dr. Ada Lovelace"
+    affiliation: "Future Institutes Alliance"
+  - name: "Prof. Alan Turing"
+    affiliation: "Epoch Society"
+version: "1.0"
+license: "CC BY-SA 4.0"
+tags:
+  - ontology
+  - taxonomy
+  - keynote
+  - epoch
+  - knowledge-graph
+category: "Keynote Documentation"
+description: |
+  This document establishes the ontology and taxonomy underpinning the Epoch-Defining Keynote, outlining the foundational concepts, relationships, and hierarchies that shape this transformative period.
+ontology:
+  context: "epoch-defining-keynote"
+  namespace: "https://future.org/ontology/epoch-keynote#"
+  base_class: "EpochEvent"
+  classes:
+    - id: EpochEvent
+      label: "Epoch Event"
+      description: "A milestone event marking a paradigm shift."
+    - id: Visionary
+      label: "Visionary"
+      description: "A person or entity driving epochal transformation."
+    - id: Innovation
+      label: "Innovation"
+      description: "A breakthrough technology, idea, or practice."
+    - id: Impact
+      label: "Impact"
+      description: "The resulting change or influence of the epoch event."
+    - id: Legacy
+      label: "Legacy"
+      description: "Long-term effects and enduring contributions."
+  relationships:
+    - id: defines
+      domain: EpochEvent
+      range: Innovation
+      description: "An epoch event defines one or more innovations."
+    - id: led_by
+      domain: EpochEvent
+      range: Visionary
+      description: "Epoch event is led by a visionary."
+    - id: results_in
+      domain: Innovation
+      range: Impact
+      description: "Innovation results in impact."
+    - id: leaves
+      domain: Impact
+      range: Legacy
+      description: "Impact leaves a legacy."
+taxonomy:
+  root: "Epoch Event"
+  branches:
+    - Visionary
+    - Innovation
+    - Impact
+    - Legacy
+layout: keynote-ontology
+showMiniToc: true
+---
+```
+
+---
+
+#### 🗝️ How to Use This Frontmatter
+
+- **Place this YAML block at the top of your main keynote documentation file** (e.g., `EPOCH-KEYNOTE.md`).
+- It encodes both the **ontology** (entities, relationships, structure) and **taxonomy** (hierarchical branches).
+- **Extensible**: Add more classes, relationships, or branches as needed for your keynote’s evolving scope.
+- **Interoperable**: The structure is compatible with GitHub Pages, Jekyll, and various knowledge graph tools.
+
+---
+
+#### 📚 Example: Opening Section in Your `EPOCH-KEYNOTE.md`
+
+```markdown
+---
+# (Paste the YAML frontmatter above here)
+---
+
+# Epoch-Defining Keynote: Ontology & Taxonomy
+
+Welcome to the foundational documentation for the **Epoch-Defining Keynote**.  
+This ontology and taxonomy provide a shared language and structure for understanding the people, innovations, impacts, and legacies that define our era.
+
+## Key Concepts
+
+- **Epoch Event**: A turning point in history.
+- **Visionary**: The leaders who shape the future.
+- **Innovation**: Breakthroughs that redefine what’s possible.
+- **Impact**: The measurable changes brought about.
+- **Legacy**: What endures beyond the event.
+
+## Relationships
+
+- An **Epoch Event** is *led by* a Visionary and *defines* Innovations.
+- **Innovations** *result in* Impacts, which in turn *leave* a Legacy.
+
+---
+
+*Ready for your keynote, your audience, and the future!*
+```
+
+---
+
+#### 🚀 If you need a **visual diagram**, **JSON-LD export**, or further extensions, just ask!
+
