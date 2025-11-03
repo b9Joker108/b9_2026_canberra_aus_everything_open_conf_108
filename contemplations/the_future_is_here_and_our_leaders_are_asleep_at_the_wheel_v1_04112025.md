@@ -1,5 +1,7 @@
 File: xxx
 
+The looming Metacrises are already here and the vast balance of world, business, science, governance, legislature, engineering, design, technnology, research, develpment and knowledge communities, leaders and bastions are asleep-at-the-wheel. Survey and report.
+
 Executive summary
 
 The world faces a tightly coupled set of systemic emergencies — a metacrisis or polycrisis — where climate breakdown, biological and public‑health shocks, supply‑chain and food insecurity, democratic erosion and trust collapse, and accelerating technological risk interact and amplify each other. Current institutions across business, science, governance, and civic sectors are under‑resourced, slow, or structurally misaligned to address these interconnected threats, producing chronic delay, fragmentation, and loss of public trust.
