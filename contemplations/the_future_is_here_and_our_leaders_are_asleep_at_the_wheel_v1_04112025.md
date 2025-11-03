@@ -1,6 +1,6 @@
 File: xxx
 
-The looming Metacrises are already here and the vast balance of world, business, science, governance, legislature, engineering, design, technnology, research, develpment and knowledge communities, leaders and bastions are asleep-at-the-wheel. Survey and report.
+The looming Metacrises are already here and the vast balance of world, business, science, governance, legislature, engineering, design, technology, research, develpment and knowledge communities, leaders, institutions and bastions are asleep-at-the-wheel. Survey and report.
 
 Executive summary
 
