@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/the_future_is_here_and_our_leaders_are_asleep_at_the_wheel_v1_04112025.md
 
 The looming Metacrises are already here and the vast balance of world, business, science, governance, legislature, engineering, design, technology, research, develpment and knowledge communities, leaders, institutions and bastions are asleep-at-the-wheel. Survey and report.
 
