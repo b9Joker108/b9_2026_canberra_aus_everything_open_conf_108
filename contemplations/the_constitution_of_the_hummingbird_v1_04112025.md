@@ -38,7 +38,7 @@ Citations:
 [10] The Hummingbird Story, You, and Positive Change - La Canada Flintridge Country Club https://lcfcountryclub.com/the-hummingbird-story-you-and-positive-change/
 
 
-There is no official "Constitution of the Hummingbird", just as their will be no official keynote oration by one bening hummingbird (who hovers) in particular; however, the term could refer to the Wangari Maathai's Hummingbird Fable, which illustrates the importance of individual contributions, or to the unique set of biological and evolutionary "rules" that govern a hummingbird's existence, such as its specialized flight, high metabolism, and co-evolution with certain flowers. 
+There is no official "Constitution of the Hummingbird", just as their will be no official keynote oration by one benevolent hummingbird who, in particular, hovers; however, the term could refer to the Wangari Maathai's Hummingbird Fable, which illustrates the importance of individual contributions, or to the unique set of biological and evolutionary "rules" that govern a hummingbird's existence, such as its specialized flight, high metabolism, and co-evolution with certain flowers. 
 
 The Hummingbird Fable
 
