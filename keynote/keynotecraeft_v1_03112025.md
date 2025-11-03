@@ -1,3 +1,4 @@
+---
 title: "Epoch-Defining Keynote: Ontology & Taxonomy"
 subtitle: "Structuring the Knowledge of a Defining Era"
 date: 2025-11-03
