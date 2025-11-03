@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/keynotecraeft_v1_03112025.md
 
 ## 🚀 Pith Instructions for Crafting an Epoch-Defining Keynote
 
