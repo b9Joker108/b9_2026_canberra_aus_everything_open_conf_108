@@ -36,3 +36,21 @@ Citations:
 [8] The hummingbird story: how small actions can lead to positive change https://www.rsm.nl/positive-change/our-positive-change-journey-starts-with-a-hummingbird/the-hummingbird-story-how-small-actions-can-lead-to-positive-change/
 [9] The Hummingbird Story https://river-stories.com/the-hummingbird-story-caribbean-fables-folklore-folktales-and-birds/
 [10] The Hummingbird Story, You, and Positive Change - La Canada Flintridge Country Club https://lcfcountryclub.com/the-hummingbird-story-you-and-positive-change/
+
+
+There is no official "Constitution of the Hummingbird"; however, the term could refer to the Wangari Maathai's Hummingbird Fable, which illustrates the importance of individual contributions, or to the unique set of biological and evolutionary "rules" that govern a hummingbird's existence, such as its specialized flight, high metabolism, and co-evolution with certain flowers. 
+
+The Hummingbird Fable
+
+The Fable: A forest fire rages, and all the animals flee except for a hummingbird, which flies back and forth to a stream, carrying water in its beak to put out the fire.
+
+* The Meaning: When the other animals question its futility, the hummingbird responds that it is "doing what I can".
+* The Principle: This fable, used by Nobel Peace Laureate Wangari Maathai, is a metaphor for how everyone can and should contribute to solving a problem, no matter how small their effort seems.
+
+Biological "Constitution"
+
+* Flight Mechanics: Hummingbirds have a unique "constitution" that allows them to fly in ways other birds cannot, including hovering, flying backward, and sideways.
+* Metabolism: They have an extremely high metabolic rate to sustain this flight.
+* Specialized Features: They possess adaptations like specialized bills that allow them to feed on nectar, with some species showing sexual dimorphism in bill shape that co-evolved with the shape of the flowers they pollinate.
+* Brain and Memory: They have relatively large brains for their size, which are crucial for remembering the locations of flowers and navigating long migration routes. 
+
