@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/the_constitution_of_the_hummingbird_v1_04112025.md
 
 To the persons who pray-and-act with sankalpa and to affirm the truth of oracular divination, please amplify and triangulate the teaching story and morality tale of: "The Constitution of the Hummingbird".
 
