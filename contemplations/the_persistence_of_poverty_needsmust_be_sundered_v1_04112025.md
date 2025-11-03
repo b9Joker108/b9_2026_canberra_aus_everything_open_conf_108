@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/the_persistence_of_poverty_needsmust_be_sundered_v1_04112025.md
 
 What is poverty in the human condition? Poverty is the indicator of the inability of humanity to engineer and realise solutions that bind to optimise the faculty and resource of all extant living Homo sapiens sapiens. The endurance and continuity of poverty for a little under a third of the global human population is an indicator of structural ineptitude of the vast balance of humans in positions of leadership and authority and demonstrates the heartlessness and selfishness of humanity that we needsmust put to rest. We must optimise and realise the promise of humanity, our technologies, biosphere and planetary system in the indeterminate unknowns of the cosmic manifestation.
 
