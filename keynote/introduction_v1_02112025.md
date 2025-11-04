@@ -1764,3 +1764,25 @@ Citations:
 [18] Wearable Sensor - an overview https://www.sciencedirect.com/topics/engineering/wearable-sensor
 
 
+Who is working on invasive sensors that penetrate dermal layer?
+
+Yes—active invasive (minimally invasive/penetrative) wearable sensing is led by groups working on microneedle arrays, penetrating microelectrodes, and dermal microfluidics for interstitial fluid (ISF) access, biosignal recording, and closed‑loop therapy. The following researchers and centers are prominent:
+
+- Microneedle biosensing and ISF sampling: Jun Li, Meng Wei, and Bingbing Gao (Nanjing Tech University) review and develop microneedle ISF sensing platforms and integrated MN devices for continuous biochemical monitoring, emphasizing fabrication, stability, and translation to personalized healthcare [1].  
+- Clinical/translational microneedles: Kequan Chen and collaborators summarize clinical advances spanning transdermal drug delivery, biosignal detection, oncology applications, and skin repair with MN arrays, highlighting safety, efficacy, and patient compliance in clinical contexts [2].  
+- Design and integration for minimally invasive continuous monitoring: Reviews in Advanced Sensor Research synthesize electrochemical microneedle sensing for continuous analyte tracking, covering materials, enzyme/electrode design, calibration, and stability pathways to clinical adoption [3].  
+- Engineering of MNs for biosensing and drug delivery: Zhao et al. survey MN architectures (solid, hollow, hydrogel, porous), microfluidic coupling, and hybrid closed‑loop systems that penetrate the dermis for sampling and delivery; they outline mechanical/biocompatibility trade-offs and scalable manufacturing strategies [4].  
+- Field-wide synthesis on microneedle wearables: A 2025 PubMed-indexed review maps mechanisms, applications, and future potential of microneedle-based wearable sensors for continuous monitoring of glucose, lactate, electrolytes, pH, and oxygen, with attention to materials, clinical trials, longevity, and calibration [5].  
+- Next-gen invasive wearables with penetrating microneedle electrodes: Royal Society of Chemistry perspectives describe microneedle electrode arrays that reduce skin–electrode impedance for high-fidelity EMG/EEG and enable closed‑loop neuromodulation; they also cover energy-harvesting MN patches and microneedle biofuel cells powering Bluetooth telemetry and coupled sensing–therapy platforms [6].  
+- Broad perspective on MNs across biomedical use: A 2025 open-access review traces MN applications from pain-free ISF sampling to intracellular electrical recording, multiplexed analyte detection, and bio-signal monitoring, delineating classes for sampling, capture, biosensing, and recording devices that penetrate the epidermis/dermis [7].
+
+In short, the invasive dermal space is currently defined by microneedle researchers advancing electrochemical ISF sensing, penetrating bioelectrodes for electroneuro/myography, integrated microfluidics for sampling and delivery, and closed‑loop therapeutic patches—bridging material engineering, microfabrication, and clinical translation [1][2][3][4][5][6][7].
+
+Citations:
+[1] A Review of Recent Advances in Microneedle-Based Sensing ... https://pubs.acs.org/doi/abs/10.1021/acssensors.4c00142
+[2] Advances in clinical applications of microneedle https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1607210/full
+[3] Microneedles for Continuous, Minimally Invasive Monitoring: A ... https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500057
+[4] Engineering microneedles for biosensing and drug delivery https://www.sciencedirect.com/science/article/pii/S2452199X2500221X
+[5] Microneedle-based wearable sensors: a new frontier in ... https://pubmed.ncbi.nlm.nih.gov/40708230/
+[6] Toward next-generation smart medical care wearables https://pubs.rsc.org/en/content/articlehtml/2025/nh/d5nh00060b
+[7] Recent advances and perspectives of MicroNeedles for ... https://pmc.ncbi.nlm.nih.gov/articles/PMC12290160/
