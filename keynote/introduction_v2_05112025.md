@@ -140,7 +140,7 @@ To ensure the highest level of sophistication and interoperability for tangentia
 
 #### C.3: Mobilizing Everything Open: The Foundation
 
-**C.3.1:** We must mobilize multi-stakeholder collaboration for foundation creation, standards evolution, and ecosystem development.
+**C.3.1:** We must mobilize 360°-stakeholder collaboration for foundation creation, standards evolution, and ecosystem development.
 **C.3.2:** **Call to Action:** Initiate a **“sovereign sensors blockchain foundation”** that integrates cutting-edge sensor fusion technology with distributed ledger frameworks in Australia.
 **C.3.3:** This requires developing a hybrid legal structure in Australia—such as linked Not-for-Profit (NFP) and For-Profit entities—to secure the mission of "everything open" while driving commercial realization.
 **C.3.4:** We must urgently establish **open standards, auditing frameworks, and ethical AI protocols** to ensure these technologies serve universal flourishing, sustainability, and resilience.
