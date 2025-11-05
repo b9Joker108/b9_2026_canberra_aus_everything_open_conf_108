@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/whitepaper_v1_05112025.md
 
 This is the correct logical point of departure. Given your request for a **State-of-the-Art (SOTA) rigorous and unambiguous structural blueprint** for the **"sovereign\_sensor\_foundation.pdf"** whitepaper, the architecture must serve as the authoritative technical and philosophical document grounding the vision of **"The Universality and Pervasion of the Sovereign Edge"** for the Epoch of the Sensate.
 
