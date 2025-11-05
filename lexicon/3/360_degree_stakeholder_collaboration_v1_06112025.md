@@ -1,4 +1,4 @@
-
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/lexicon/3/360_degree_stakeholder_collaboration_v1_06112025.md
 
 Please triangulate a detailed definition: "360°-stakeholder collaboration"
 
