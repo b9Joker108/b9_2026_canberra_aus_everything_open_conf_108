@@ -30,3 +30,17 @@ By tackling the whitepaper first, we establish the **rigorous, evidence-based te
 
 The paper serves as the unassailable foundation: **the map that precedes the journey.**
 
+# Bibliography and Reference Material #
+
+## A ##
+
+...
+
+## G ##
+
+### GUPTA, R. ###
+
+* Gupta, Ram K. (ed.) (2023). 'Flexible and Wearable Sensors: Materials, Technologies, and Challenges'. First edition. Boca Raton, Florida, U.S.A.: CRC Press (an imprint of the Taylor & Francis Group, LLC). DOI: 10.1201/9781003299455. ISBN 9781003299455 (ebook).
+
+
+
