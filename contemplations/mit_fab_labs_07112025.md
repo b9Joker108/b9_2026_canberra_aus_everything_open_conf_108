@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/mit_fab_labs_07112025.md
 
 Please triangulate, qualify and quantify, the MIT Labs fabricator tool: A tool that can not only manufacture almost any component or tool, presently known, out of a vast amount of canonical materials, but also from new and emergent materials science at all different scales and orders of size.
 
