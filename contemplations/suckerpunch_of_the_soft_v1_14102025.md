@@ -66,6 +66,7 @@ metadata:
   ethics_statement: "No human subjects research; emphasis on cultural critique and material analysis."
 ---
 
+File: xxx
 
 Here’s a closing reflection that extends our critique into the domain of soft/fabric technologies and computation—where pliancy, tactility, and subversion stand in deliberate counterpoint to the hard, rigid architectures of legacy devices:
 
