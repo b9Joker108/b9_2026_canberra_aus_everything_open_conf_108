@@ -38,16 +38,27 @@ The paper serves as the unassailable foundation: **the map that precedes the jou
 
 ## G ##
 
-### GUPTA, R. ###
+## GUPTA, R. ##
 
 * Gupta, Ram K. (ed.) (2023). 'Flexible and Wearable Sensors: Materials, Technologies, and Challenges'. First edition. Boca Raton, Florida, U.S.A.: CRC Press (an imprint of the Taylor & Francis Group, LLC). DOI: 10.1201/9781003299455. ISBN 9781003299455 (ebook).
 
+**Purport:**<br>
+...
+
+## NOVÁK, M. ##
+
+* Novák, Martin (2021, 2020). 'Introduction to Sensors for Electrical and Mechanical Engineers'. (NB: First edition published in 2020.). Boca Raton, Florida, U.S.A.: CRC Press (an imprint of the Taylor & Francis Group, LLC). ISBN 9781003081692 (ebook).
+
+**Purport:**<br>
+...
+
 ## P ##
 
-### PARADISO, J. ###
+## PARADISO, J. ##
 
 * Paradiso, Joseph A. (1998). 'The Brain Opera Technology: New Instruments and Gestural Sensors for Musical Interaction and Performance \[Version 2.0]' (pp. 130-149) in the *Journal of New Music Research*, Vol. 28, Issue 2, 1999. Source: https://cba.mit.edu/docs/papers/98.3.JNMR_Brain_Opera.pdf (accessed: Friday, November 07, 2025) Source: https://doi.org/10.1076/jnmr.28.2.130.3119 (accessed: Friday, November 07, 2025)
 
-
+**Purport:**<br>
+...
 
 
