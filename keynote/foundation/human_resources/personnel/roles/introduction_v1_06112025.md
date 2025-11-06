@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/foundation/human_resources/personnel/roles/introduction_v1_06112025.md
 
 In my International NFP Foundation, I need a person whose dedicated role it is to establish organisational linkages for networking, knowledge triangulation, mentoring and benchmarking, but I am unsure what such a role is codified under as a directorate, business unit and what the prevailing contemporary organisational and business logic codifies their role titles as?
 
