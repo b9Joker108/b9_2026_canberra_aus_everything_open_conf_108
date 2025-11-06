@@ -1,0 +1,12 @@
+{
+  "commitMessage": {
+    "autoGenerate": true,
+    "aiSummary": "always",
+    "minDetailLevel": "detailed",
+    "allowUserEdit": true,
+    "applyToAllBranches": true
+  },
+  "copilot": {
+    "featureRequest": "Enable persistent, detailed AI-generated commit messages across all commits in this repository, using Copilot where available. Allow user edits before commit is finalized."
+  }
+}
