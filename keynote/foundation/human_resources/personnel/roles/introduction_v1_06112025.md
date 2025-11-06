@@ -1,5 +1,7 @@
 File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/foundation/human_resources/personnel/roles/introduction_v1_06112025.md
 
+# Organisational Roles: An Introduction #
+
 In my International NFP Foundation, I need a person whose dedicated role it is to establish organisational linkages for networking, knowledge triangulation, mentoring and benchmarking, but I am unsure what such a role is codified under as a directorate, business unit and what the prevailing contemporary organisational and business logic codifies their role titles as?
 
 In contemporary organizational and business logic, the role dedicated to establishing organizational linkages for networking, knowledge triangulation, mentoring, and benchmarking is generally codified under directorates or business units related to "Knowledge Management," "Organizational Development," or "Strategic Partnerships." 
