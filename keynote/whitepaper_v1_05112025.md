@@ -36,6 +36,17 @@ The paper serves as the unassailable foundation: **the map that precedes the jou
 
 ...
 
+## B ##
+
+### BROWNING, B.; *et al.*
+
+* Browning, Dr. Beverly A.; Farris, Sharon; Loughran, Maire; Connolly, Alyson; Singh, Shiv; & Diamond, Stephanie; *et al.* (2022). 'Nonprofit Management All-in-One For Dummies®'. Hoboken, New Jersey, U.S.A.: John Wiley & Sons, Inc. ISBN 9781394172443 (ebook).
+
+**Purport:**<br>
+...
+
+...
+
 ## G ##
 
 ## GUPTA, R. ##
