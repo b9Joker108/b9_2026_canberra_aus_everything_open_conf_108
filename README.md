@@ -27,7 +27,7 @@ The core purpose of the conference is to provide a physical and intellectual spa
 * Diverse Program Streams: A wide array of scheduled presentations (both short and long talks) and interactive tutorials covering topics like the Linux ecosystem, open hardware, open data, open GLAM (galleries, libraries, archives, and museums), and community management.
 * Networking Opportunities: Facilitating the "hallway track" where informal interactions and discussions occur between formal sessions, allowing for vital networking and relationship building.
 * Accessibility and Inclusivity: Striving to be an inclusive event that welcomes diverse participants, with an enforced Code of Conduct to ensure an atmosphere of trust, safety, and respect for all attendees.
-Content Dissemination: Recording sessions and making them publicly available after the event under a Creative Commons license, extending the reach and impact of the shared knowledge beyond the physical attendees.
+* Content Dissemination: Recording sessions and making them publicly available after the event under a Creative Commons license, extending the reach and impact of the shared knowledge beyond the physical attendees.
 
 # Everything Open Conference 2026 - Standard Repo Structure
 
