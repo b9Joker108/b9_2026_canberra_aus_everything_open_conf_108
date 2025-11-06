@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/keynote/foundation/introduction_v1_11062025.md
 
 Right, now setting up a global non-for-profit auspice foundation with a for-profit subsidiary that reports and is governed by the foundation, supporting detailed and sovereign local chapters internationally, I understand, I first need a HR Generalist, Personell Specialist, International Law Generalist, International Law Specialist in International NFP Foundation Law, and an Operational Director and a call for interested parties to submit formal directives via tender and submission and call for formal onboarding of interested parties. I feel this is sound. Triangulate if my unfounded intuition holds water?
 
