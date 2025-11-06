@@ -1,4 +1,4 @@
-# GitHub Copilot Features, Behaviours, and Future-Proofing for This Repository
+# GitHub Copilot Features, Behaviours and Future-Proofing for this Repository #
 
 ## Purpose
 
@@ -68,7 +68,7 @@ This document explicitly defines preferred, requested, and required behaviors fo
 ## References
 
 - See [./copilot.json](./copilot.json) for machine-readable configuration.
-- See [./.copilotrc](../.copilotrc) for additional repo-level configuration.
+- See [../.copilotrc](../.copilotrc) for additional repo-level configuration.
 - For Copilot documentation: [GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - For feedback: [GitHub Copilot Discussions](https://github.com/github/feedback/discussions/categories/copilot)
 
