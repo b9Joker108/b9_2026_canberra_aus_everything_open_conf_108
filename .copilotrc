@@ -1,0 +1,31 @@
+# .copilotrc - Repository-level configuration for GitHub Copilot and companion automation tools
+
+[commit-message]
+auto_generate = true
+min_detail = "detailed"        # Options: 'short', 'detailed', 'full diff', etc.
+ai_summary = "always"          # Always use AI to populate summaries/descriptions
+user_can_edit = true
+all_branches = true
+
+[general]
+prefer_copilot_features = true
+prefer_ai_commit_messages = true
+explain_config_to_collaborators = true
+allow_bot_and_plugin_extensions = true
+future_proof = true
+
+[documentation]
+# Instructs Copilot and repo users where to find guidelines and config explanations
+copilot_config_readme = ".github/COPILOT_FEATURES.md"
+
+[feature-requests]
+detailed_commit_message = true
+multi-language_support = true
+auto-activate_in_github_web_editor = true
+copilot_responds_to_commit_msg_hooks = true
+apply_to_forks_and_descendants = true
+
+[notes]
+# This repo requests that all Copilot integrations, GitHub Apps, and future native features
+# automatically generate and suggest detailed commit messages on every commit, and always prompt user review/edit.
+# This file is a signal to Copilot, Actions, bots, and collaborators to respect this workflow as standard.
