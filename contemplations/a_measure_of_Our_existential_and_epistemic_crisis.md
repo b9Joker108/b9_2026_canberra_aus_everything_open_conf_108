@@ -1,3 +1,5 @@
+File: xxx
+
 # A Measure of Our Existential and Epistemic Crisis #
 
 **Premise: Governance and Regulation instantiated by Homo sapiens sapiens have never been pre-emptive, only reactionary. Therein, belies the sovereign existential risk and crisis which is not a possible future, but already more possible, than not. Perplexity: Contend.**
