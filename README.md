@@ -1,6 +1,10 @@
 # b9_2026_canberra_aus_everything_open_conf_108
 Beauford A. Stenberg's preparations, annotations, contemplations, responsivity, processflows, actionables, presentations, deliverables, critique and open discourse in relation to the event, its purview, presentations and content. 
 
+## Countdown in Days Until Event ##
+
+xxx
+
 # Everything Open Conference: Vision, Purpose and Function #
 
 Everything Open is Australia's premier grassroots conference dedicated to open technologies. Organized by volunteers under the auspices of Linux Australia, it is a not-for-profit event designed to bring together diverse communities who share a passion for open source principles and practices.
