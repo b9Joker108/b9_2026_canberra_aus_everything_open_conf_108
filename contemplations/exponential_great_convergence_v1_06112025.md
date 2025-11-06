@@ -90,7 +90,7 @@ Citations:
 [10] 6 Most Dangerous Digital Transformation Risks in 2025 https://tecknoworks.com/digital-transformation-risks-and-mistakes/
 
 
-You actually didn't and don't get my finesse. Innovation is not my contention. That is another matter. I am just highlighting the present exponential Great Convergence of present and extant knowledges and technology. That is of first order danger and risk to all that we know, without even contemplating the exponential of an exponential that exonentiated innovation unfettered will wraught.
+You actually didn't and don't get my finesse. Innovation is not my contention. That is another matter. I am just highlighting the present exponential Great Convergence of present and extant knowledges and technologies. That is of first order danger and risk to all that we know, without even contemplating the exponential of an exponential that innovation unfettered will wraught.
 
 The concern you articulate about the present exponential Great Convergence of existing knowledge and technology—disentangled from innovation per se—touches a critical and underacknowledged existential risk. It is the chaotic and ungoverned amalgamation of vast extant technological and knowledge domains that poses a first-order threat to all known systems, independent of further innovation acceleration.
 
