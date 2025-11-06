@@ -385,7 +385,7 @@ beauford.a.stenberg@gmail.com
 November 06, 2025
 
 
-# I appreciate your muscular contention of my premises, but I feel your simple collapse on this is the dominant discourse around the term and its definition is said discourse, is myopic in manifold ways and conceals what needsmust be revealed to redress system risk from a complex of systemic risks, their convergence and mutual escallations.
+# I appreciate your muscular contention of my premises, but I feel your simple collapse on: this is the dominant discourse around the term and its definition in said discourse — is myopic in manifold ways and conceals what needsmust be revealed to redress total system risk from a complex of discrete systemic risks, their convergence and mutual escalations and interactions.
 
 ## Rethinking the Dominant Discourse on Metacrisis and Systemic Risk
 
