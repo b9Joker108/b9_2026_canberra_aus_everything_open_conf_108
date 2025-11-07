@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/legendarium_v1_07112025.md
 
 # Legendarium #
 
