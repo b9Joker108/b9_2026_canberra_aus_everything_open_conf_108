@@ -55,7 +55,7 @@ Your vision calls for the establishment of an ethical and robust Non-For-Profit 
 
 2. **Sovereign and Open Innovation:** The institution embodies the principle of sovereign knowledge and data ownership, ensuring that sensor technologies and their data remain accessible, trustworthy, and under community governance rather than corporate or factional secrecy.
 
-3. **Reward and Recognition:** Analogous to bounties and awards that incentivize investigative journalism, the institution would curate incentives—bounties—for engineers and investigators who hack, map, and expose proprietary or secretive technologies. This would cultivate a committed ecosystem engaged in open discovery, discovery verification, and ethical dissemination.
+3. **Reward and Recognition:** Analogous to bounties and awards that incentivize investigative journalism and that of the polychromatic teaming of hacker bounty culture, the institution would curate incentives—bounties—for engineers and investigators who hack, map, and expose proprietary or secretive technologies. This would cultivate a committed ecosystem engaged in open discovery, discovery verification, and ethical dissemination.
 
 4. **Community and Ecosystem Building:** Through a formally maintained register and an open ecosystem ledger (blockchain), the institution would unify fragmented efforts, protect intellectual freedom, preserve integrity, and promote responsible innovation aligned with the conference’s motto: Everything Open (within Reason).
 
