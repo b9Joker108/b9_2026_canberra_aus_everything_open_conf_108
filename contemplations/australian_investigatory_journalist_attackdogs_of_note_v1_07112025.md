@@ -220,3 +220,45 @@ Citations:
 [10] The Watchdog Press in the Doghouse: A Comparative ... https://journals.sagepub.com/doi/10.1177/19401612221112572
 
 
+Lapdog, Watchdog and Attackdog are all modes of value. The greats exhibit and employ all often in rapid and rabid succession.
+
+Your observation is astute and aligns with scholarly research on journalistic roles and styles: lapdog, watchdog, and attack dog are not mutually exclusive or rigid categories but rather fluid modes or strategies that journalists may employ dynamically depending on context, goals, audience, and the situation.
+
+- **Lapdog journalism** denotes a compliant, non-adversarial stance, often supportive or uncritical of power.
+- **Watchdog journalism** is the classic, principled oversight role—holding power to account with measured impartiality, fairness, and investigative rigor.
+- **Attack dog journalism** adopts a confrontational, aggressive mode, characterized by relentless, pointed questioning and exposure tactics as seen in sting operations, trial-by-media, and hard-hitting interviews.
+
+These modes often exist on a continuum and can shift rapidly even within a single interaction or journalist's career. Great investigative journalists and media figures deploy these modes strategically in tandem or succession, leveraging the **lapdog's access**, the **watchdog's credibility**, and the **attack dog's force** to maximize impact across different stages of an investigation or narrative[2][1][4][7].
+
+For example:
+- A journalist might start as a lapdog to gain trust and access or establish rapport,
+- Then act as a watchdog to systematically examine evidence and uncover wrongdoing,
+- Finally switch to attack dog mode in public confrontations or hearings to press for accountability and push for reform.
+
+Academic analysis also recognizes this nuanced interplay as journalists navigate competing demands of independence, public interest, and practical constraints such as access, editorial policies, and media ownership biases[2][5][7].
+
+In short, the three "dog" modes are **complementary journalistic values and tactics** rather than discrete or oppositional categories. The effective journalist is a skilled tactical actor, deploying lapdog, watchdog, and attack dog "modes" fluidly to pursue truth, influence public discourse, and serve democratic accountability.
+
+**Key References:**
+
+- UniversityBooksNG, *Difference Between Lapdog and Watchdog Journalism* (2023) [2]
+- ImpactOnNet, *From 'Attack-Dog' to 'Guide-Dog' Journalism* (2014) [1]
+- LibreTexts, *Functions and Theories of Mass Communication* (2023) [4]
+- Media International Australia, Dodd, A. *A lapdog, a watchdog, an attack dog or all of the above?* (2015) [7]
+- Clayman et al., *When Does the Watchdog Bark? Conditions of Aggressive Journalism* (2007) [5]
+
+This fluidity in journalistic modes captures the complex reality faced by investigative journalists—especially those operating as the "attack dogs" you emphasize—balancing proximity to power with adversarial accountability in a fast-moving and contentious media landscape.
+
+Citations:
+[1] From 'attack-dog' to 'guide-dog' journalism https://www.impactonnet.com/spotlight/from-attack-dog-to-guide-dog-journalism-2485.html
+[2] Difference between Lapdog and Watchdog Journalism https://universitybooksng.com/difference-between-lapdog-and-watchdog-journalism/
+[3] What is the Difference Between Watchdog and Lapdog https://pediaa.com/what-is-the-difference-between-watchdog-and-lapdog/
+[4] 15.2: Functions and Theories of Mass Communication https://socialsci.libretexts.org/Bookshelves/Communication/Introduction_to_Communication/Communication_in_the_Real_World_-_An_Introduction_to_Communication_Studies/15:_Media_Technology_and_Communication/15.02:_Functions_and_Theories_of_Mass_Communication
+[5] When Does the Watchdog Bark? Conditions of Aggressive ... https://clayman.scholar.ss.ucla.edu/wp-content/uploads/sites/15/2019/07/Clayman-et.-al.-2007-WatchdogBarks.pdf
+[6] The media: watchdog, lapdog or what? https://www.rgj.com/story/opinion/2024/09/03/the-media-watchdog-lapdog-or-what/75059474007/
+[7] A lapdog, a watchdog, an attack dog or all of the above? https://researchprofiles.canberra.edu.au/en/publications/the-australians-media-supplement-a-lapdog-a-watchdog-an-attack-do/
+[8] Mass Communication Class - Basic Types of Journalism ... https://www.facebook.com/OnlineMasscomClass/photos/a.100323901888659/294520122469035/?type=3
+[9] Shifting journalistic roles in democratic transitions https://eprints.lse.ac.uk/62088/1/Cammaerts_Shifting_journalistic.pdf
+[10] Datadog Monitoring: Key Features and Benefits for DevOps ... https://dataforest.ai/glossary/datadog
+
+
