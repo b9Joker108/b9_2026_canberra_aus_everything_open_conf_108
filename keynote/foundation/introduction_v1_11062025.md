@@ -1302,3 +1302,10 @@ Citations:
 [9] books in Corporations Law https://www.boffinsbooks.com.au/professional/law/taxation-corporations-commerce/corporations-law/
 [10] Law Textbooks Australia | Digital & Print | Wiley Direct https://www.wileydirect.com.au/subject/law/
 
+# Readings #
+
+* Ford, H.A.J. \[Harold Arthur John]; Austin, Robert P.; & Ramsay, Ian M. (2018). 'Ford, Austin and Ramsay's Principles of Corporations Law'. Chatswood, N.S.W., Australia: Seventeenth edition.  LexisNexis Butterworths (Reed International Books Australia P/L ~ t/as LexisNexis). ISBN 9780409345544 (ebook).
+
+
+
+
