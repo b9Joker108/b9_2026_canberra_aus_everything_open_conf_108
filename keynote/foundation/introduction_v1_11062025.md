@@ -850,4 +850,95 @@ Citations:
 
 
 
+Here is the article "Forming a For-Profit Subsidiary of a Nonprofit" verbatim and formatted for clarity:
 
+---
+
+**Forming a For-Profit Subsidiary of a Nonprofit**  
+*By Jeremy Chen*
+
+**Tax-exempt nonprofit organizations that earn income from operating unrelated businesses**
+
+---
+
+### Introduction and Advantages
+
+Forming a for-profit subsidiary of a nonprofit organization can be a viable solution for tax-exempt nonprofits that earn income from operating unrelated businesses, as it helps protect their tax-exempt status and provides other benefits, such as liability protection and greater marketability of products and services, as discussed by Jeremy Chen in the document "Forming a For-Profit Subsidiary of a Nonprofit".
+
+The advantages of forming a for-profit subsidiary include liability protection to the nonprofit, the possibility of equity sharing in the subsidiary, and greater marketability of products and services, which can attract outside investors, talent, and experienced employees, and can generate more income by expanding and offering services and products to a larger audience at full fair market value.
+
+Nonprofits often worry that their unrelated business activity will jeopardize their tax-exempt status. This concern is especially relevant for nonprofits that have substantial growth of their unrelated businesses. The IRS allows a tax-exempt nonprofit to conduct income-generating business activities, which are unrelated to its exempt purpose, as long as those activities are “reasonably commensurate” with its resources. A nonprofit, however, may lose its tax-exempt status if its unrelated business activities begin to overshadow the activities it conducts in furtherance of its exempt purpose. In these instances, it is worth considering transferring unrelated business activities to a separate for-profit subsidiary to protect the organization’s tax-exempt status. The following is a discussion of the more common issues that arise in deciding to form a for-profit subsidiary of a nonprofit, where the nonprofit is the sole owner of the subsidiary.
+
+---
+
+### Advantages and Disadvantages of a For-Profit Subsidiary
+
+However, there are also disadvantages to consider, including the need to double resources, personnel, and administrative expenses to run two separate entities, maintaining entity separation to avoid attribution of non-exempt activities to the nonprofit, and addressing significant concerns such as securities issues, administrative expenses, taxation of assets upon dissolution of the subsidiary, and application of the prudent investment standard if the nonprofit capitalizes and invests in the subsidiary.
+
+---
+
+### Choosing an Entity Form
+
+When choosing an entity form for the subsidiary, using the corporate form, such as a C corporation, benefit corporation, or social purpose corporation, provides the most protection to a nonprofit's tax-exempt status, as it requires directors and officers to follow more formalities and procedures, which helps to separate the parent from the subsidiary and prevent a subsidiary's for-profit activities from being attributed to its parent-nonprofit.
+
+Alternatively, a subsidiary can be formed as a limited liability company (LLC), but this may have drawbacks, such as the IRS attributing the subsidiary's business activities to the parent-nonprofit and the parent-nonprofit being subject to unrelated business income tax if the business activities are unrelated to the nonprofit's charitable purpose, since the LLC is a pass-through entity where profits are taxed directly to the nonprofit.
+
+---
+
+### Operational and Governance Considerations
+
+The formation of a for-profit subsidiary by a nonprofit organization can help protect the nonprofit's tax-exempt status by housing unrelated business activity, but it requires careful consideration and maintenance of separation between the two entities to avoid attribution of unrelated business income to the nonprofit.
+
+In addition to protecting a nonprofit’s tax-exempt status, forming a for-profit subsidiary provides other benefits, such as liability protection to the nonprofit, the possibility of equity sharing in the subsidiary, and greater marketability of products and services. First, a subsidiary provides liability protection to the nonprofit by housing unrelated business activities in a separate entity. As long as the separate nature of the two entities is respected, lawsuits and liability claims against the subsidiary should not affect the parent-nonprofit. Second, for-profit subsidiaries can offer equity ownership in the business to attract outside investors, talent, and experienced employees.¹ In comparison, nonprofits cannot offer equity ownership because they do not have equity to share. Third, the market constraints placed on nonprofits do not apply to for-profit subsidiaries.
+
+To maintain the advantages of limited liability protection and tax-exempt status, the operation and governance of both the nonprofit and its subsidiary must be separated, including avoiding the sharing of resources such as office space, office supplies, and intellectual property, or having written resource-sharing agreements in place if sharing is necessary.
+
+The for-profit subsidiary should pay market value for any resources provided to it by the nonprofit, and both entities should avoid having complete overlap of officers and directors serving both entities to ensure independent operation and to avoid disqualification of directors from voting on interested transactions.
+
+As such, for-profit subsidiaries are able to generate more income because subsidiaries can expand and offer services and products to a larger audience at full fair market value.²
+
+Nonprofits should weigh all considerations before forming a subsidiary, including structuring the parent-subsidiary relationship with the appropriate entity choice and written inter-entity agreements, and should seek legal counsel to ensure compliance with state and federal securities regulations, such as those related to equity compensation and offering equity to investors.
+
+According to David A. Levitt and Steven R. Chiodini, as discussed in the article "Taking Care of Business: Use of a For-Profit Subsidiary by a Nonprofit Organization" in Business Law Today, and as noted by the Law Office of Jeremy Chen, nonprofits should carefully consider the implications of forming a for-profit subsidiary, including the potential tax implications, such as unrelated business income tax issues, and the need for separate directors to maintain proper separation of the entities.
+
+There are also disadvantages that should be weighed in considering whether to form a subsidiary. The main disadvantage is that resources, personnel, and administrative expense must be doubled to run two separate entities. Maintaining entity separation is crucial because failing to do so could lead to attribution of non-exempt activities to the nonprofit. Further, lack of separation can open the window for plaintiffs to “pierce the corporate veil” and reach the assets of the nonprofit to satisfy debts or judgments against the nonprofits. Other significant concerns that may arise are securities issues, administrative expenses in preparing and executing resource-sharing agreements between the entities, taxation of assets upon dissolution of the subsidiary, and application of the prudent investment standard if the nonprofit capitalizes and invests in the subsidiary.
+
+---
+
+### Entity Choices for the Subsidiary
+
+Using the corporate form for the subsidiary provides the most protection to a nonprofit’s tax-exempt status protection. The corporate form is better suited to separate the parent from the subsidiary because it requires directors and officers to follow more formalities and procedures compared to other entity forms. As long as separation from the subsidiary is maintained, the corporate form (e.g. C corporation, benefit corporation, social purpose corporation) will prevent a subsidiary’s for-profit activities from being attributed to its parent-nonprofit.³
+
+The S corporation election is usually not exercised by subsidiaries due to unrelated business income tax issues for the parent-nonprofit, and nonprofits should be aware of the requirements imposed by the IRS, including the IRS Circular 230 Notice, to ensure compliance with tax-related regulations.
+
+A subsidiary can also be formed as a limited liability company (LLC). The main drawback, however, is that the IRS will attribute the subsidiary’s business activities to the parent-nonprofit in its determination of whether the nonprofit operates solely for exempt purposes. Further, a parent-nonprofit will be subject to unrelated business income tax if the business activities are unrelated to the nonprofit’s charitable purpose, since the LLC is a pass-through entity where profits are taxed directly to the nonprofit. Ultimately, any tax-exempt status protection that the nonprofit intended to gain by forming a subsidiary in the first place would be greatly reduced because of attribution of unrelated business activity to the nonprofit.
+
+---
+
+### Maintain Separation Between Parent and Subsidiary
+
+To maintain the advantages of limited liability protection and tax-exempt status of the nonprofit, the operation and governance of both entities must be separated. Again, failure to maintain separation can expose the nonprofit to lawsuits brought against the subsidiary, can cause the nonprofit to lose its tax-exempt status, and can cause attribution of the subsidiary’s unrelated business income to the nonprofit.
+
+In operating the subsidiary, both entities should avoid sharing resources, such as office space, office supplies, and intellectual property, if possible. If both entities ultimately decide to or must share resources, written resource-sharing agreements should be in place. Further, the for-profit should pay market value for any resources provided to it by the nonprofit.
+
+In regards to governance, both entities should avoid having complete overlap of officers and directors serving both entities. This point is particularly important when the nonprofit must approve an interested transaction. If an interested transaction requires a vote, complete overlap of directors would disqualify all of the directors as interested parties from voting on the transaction. In addition, complete overlap of officers should be avoided so that the subsidiary can operate independently of the nonprofit to maintain proper separation of the entities. Lastly, having separate directors makes board meetings clearer as to which entity’s business is to be discussed.
+
+In sum, nonprofits should weigh all considerations, many of which are not discussed here, before forming a subsidiary. Nonprofits should take care to structure the parent-subsidiary relationship with the appropriate entity choice and with written inter-entity agreements. Nonetheless, forming a for-profit subsidiary to house unrelated business activity to protect a nonprofit’s tax-exempt status may be an option worth considering for a nonprofit with substantial unrelated business income.
+
+---
+
+¹ Equity compensation and offering equity to investors may trigger state and federal securities regulations. A company should seek legal counsel before offering any equity in their company to outside investors.  
+² Business Law Today – June 2014, “Taking Care of Business: Use of a For-Profit Subsidiary by a Nonprofit Organization” by David A. Levitt and Steven R. Chiodini.  
+³ The S corporation election, however, is usually not exercised by subsidiaries because it raises unrelated business income tax issues for the parent-nonprofit.
+
+---
+
+**Disclaimer:** The information in this article is not legal advice, and is provided only for informational purposes. This article is only a general discussion, and does not include all relevant information regarding the topics and issues addressed within it.
+
+**IRS Circular 230 Notice:** To ensure compliance with requirements imposed by the IRS, this law practice informs you that any U.S. federal tax advice contained in this communication (including any attachments) is not intended or written to be used, and cannot be used, for the purpose of (i) avoiding tax-related penalties under the Internal Revenue Code or (ii) promoting, marketing or recommending to another party any transaction or tax-related matter(s) addressed herein.
+
+201 Spear Street, Suite 1100, San Francisco, CA 94105
+
+---
+
+If you need any further assistance or a summary, please let me know!
