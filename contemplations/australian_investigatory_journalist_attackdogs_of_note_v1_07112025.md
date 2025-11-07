@@ -1,6 +1,6 @@
-File: xxx
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/australian_investigatory_journalist_attackdogs_of_note_v1_07112025.md
 
-# xxx #
+# Australian Investigatory Journalist Attackdogs of Note #
 
 Please list twenty (20) Australian investigative journalist attackdogs, in alphabetical order by family name, with their hard dates of flourishing, a succint paragraph framing them, their *magnum opus* and two (2) notable works each.
 
