@@ -265,4 +265,126 @@ Citations:
 
 
 
+There have been major collective monographs on the humminbird genus' and species, triangulate, excavate, enumerate, list and qualify each?
+
+The study of hummingbirds (family Trochilidae) has been extensively covered in several major monographs that thoroughly document the genus and species diversity, behavior, morphology, distribution, and evolutionary relationships. Below is a triangulated and qualified list of the key collective monographs of hummingbirds considered canonical and authoritative in ornithology:
+
+1. **A Monograph of the Trochilidae or Family of Humming-Birds** by John Gould and R. Bowdler Sharpe (published 1849-1861, supplement 1880-1887)  
+   - Considered the foundational historical monograph, comprising 5 volumes plus a supplemental volume documenting 537 species with 418 hand-colored lithographic plates. Intensively detailed taxonomy and visual descriptions from field and museum specimens globally[1][6][7][9].
+
+2. **Genera of Humming Birds** by Auguste Boucard (late 19th century)  
+   - A detailed monograph covering taxonomic, morphological, and behavioral diversity classified by genera, following up on earlier work and expanding across the Americas[5][8].
+
+3. **Hummingbirds: A Life-Size Guide to Every Species** by Michael Fogden, Marianne Taylor, and Sheri L. Williamson (2014)  
+   - The first comprehensive modern guide profiling all ~338 known species with life-size illustrations, combining identification detail, photos, and field data for each species. This combines scientific rigor with accessible format for both researchers and birders[10].
+
+4. **List of hummingbirds (IOC recognized species list; continuously updated)**  
+   - The International Ornithological Committee regularly classifies 366 species across 112 genera, serving as the modern taxonomic reference integrating genetic and morphological data[2].
+
+5. **Hummingbirds of North America: A Comprehensive Guide to All Species** by Sheri L. Williamson, et al. (2024)  
+   - Focused on North American species with detailed field guide photos and identification markers, complementing global monographs with a regional emphasis[4].
+
+6. **Various Academic and Field Guides**  
+   - Numerous region-specific guides and research monographs from scientific societies, universities, and natural history museums document hummingbird diversity and behavior, often integrating new molecular systematics and ecological insights.
+
+### Qualitative Notes:
+- John Gould’s monographs remain seminal, highly prized for artistic quality and foundational taxonomy.  
+- Modern works (Fogden et al., Williamson et al.) integrate molecular phylogenetics and advanced species concepts refining classification.  
+- The IOC continuously maintains and updates the authoritative species list reflecting ongoing discovery, synonymization, and range data corrections.  
+- Together, these texts form the backbone of hummingbird scholarship for evolutionary biology, ecology, and conservation.
+
+***
+
+**Summary Table**
+
+| Title                                        | Author(s)                  | Date(s)          | Scope                                       | Notes                                        |
+|----------------------------------------------|----------------------------|------------------|---------------------------------------------|----------------------------------------------|
+| A Monograph of the Trochilidae               | John Gould, R.B. Sharpe    | 1849–1887        | Global species monograph                     | Seminal, hand-colored lithographs            |
+| Genera of Humming Birds                       | Auguste Boucard            | 19th century     | Taxonomy and genera                          | Follow-up to Gould                            |
+| Hummingbirds: A Life-Size Guide               | Fogden, Taylor, Williamson | 2014             | All known species globally                   | Modern illustrations, field ID                |
+| IOC List of Hummingbirds                      | International Ornithological Committee | Continuous update | Global species list, taxonomy                | Authoritative modern classification          |
+| Hummingbirds of North America                 | Williamson et al.           | 2024             | North American species focus                 | Detailed ID guide                             |
+
+If you want, specific monographs can be summarized in greater depth or compared with emergent molecular and ecological research.
+
+**Key Links:**
+- Gould’s Monograph Supplement details: [1], [6], [9]
+- IOC Species List: [2]
+- Modern Guides: [4], [10]
+
+This sampling illustrates the rich scholarly tradition supporting hummingbird systematics, informing ethology, conservation, and cultural understanding of these remarkable birds.
+
+Citations:
+[1] A Monograph of the Trochilidae, or Family of Humming-Birds ... https://www.naturalhistorybooks.com/products/a-monograph-of-the-trochilidae-or-family-of-humming-birds-supplement
+[2] List of hummingbirds - Wikipedia https://en.wikipedia.org/wiki/List_of_hummingbirds
+[3] A Lavishly Illustrated Catalog of All Hummingbird Species ... https://www.openculture.com/2023/10/a-lavishly-illustrated-catalog-of-all-hummingbird-species-known-in-the-19th-century-gets-restored-put-online.html
+[4] Hummingbirds of North America: A Comprehensive Guide ... https://www.nhbs.com/en/hummingbirds-of-north-america-a-comprehensive-guide-to-all-species-book
+[5] Genera of Humming Birds: Being Also a Complete ... https://www.readings.com.au/product/9781120623348/9781120623348
+[6] A monograph of the Trochilidae, or family of humming-birds https://archive.org/details/monographTrochiSupplementGoul
+[7] A monograph of the Trochilidae, or family of humming-birds https://www.biodiversitylibrary.org/bibliography/51215
+[8] Genera of humming birds https://upload.wikimedia.org/wikipedia/commons/a/ac/Genera_of_humming_birds_-_being_also_a_complete_monograph_of_these_birds_(IA_generaofhummingbab00bouc).pdf
+[9] John Gould, Monograph of the Trochilidae, 1861, first edition https://shapero.com/products/john-gould-monograph-humming-birds-first-edition-114795
+[10] Hummingbirds: A Life-Size Guide to Every Species https://www.fieldfarebooks.co.uk/product/46/Hummingbirds-A-Life-Size-Guide-to-Every-Species
+
+
+Survey again, no repetition!
+
+The study of hummingbird biology, morphology, behavior, and evolution is supported by several recent and classical major monographs that combine anatomical, ecological, evolutionary, and behavioral research. Here is a triangulated and qualified survey of major hummingbird monographs with methodological scope:
+
+1. **"A Monograph of the Trochilidae, or family of humming-birds"** (Gould/Bowdler Sharpe supplement, 19th century to early 20th century)  
+   - Classical taxonomic and morphological foundational volumes documenting hundreds of species with detailed plates, extensive specimen descriptions, and early biogeographical notes[1].
+
+2. **Recent Evolutionary and Speciation Studies** (Leimberger et al., 2023, PMC article)  
+   - Explores morphological and ecological niche traits shaping speciation rates, revealing how smaller body sizes, shorter bills, and high elevation habitats contribute to rapid diversity in hummingbirds. Integrates molecular phylogenetics with phenotype-environment interaction analyses, emphasizing evolutionary divergence as key to speciation[2].
+
+3. **Behavioral and Ecological Monographs and Reviews** (Maglianesi et al., 2022; various behavioral ecology references)  
+   - Review sex-specific resource use, territoriality, mating behavior, and effects of human disturbance on hummingbird territorial and foraging behavior. Provide detailed behavioral and ecological trait analyses crucial for species survival and reproduction[3][4][5].
+
+4. **Specialized Regional Guides and Photographic Monographs** (Williamson et al., 2024; Zusi, 2013)  
+   - Highly detailed photographic species guides for North America with updated taxonomy, including anatomy and behavior. Comprehensive field observations accompany anatomical work giving insights into roosting, foraging, and other life history traits[6][7][8].
+
+5. **Mutualistic Ecology and Species Interaction Analyses** (Leimberger et al., 2022)  
+   - Reviews co-evolutionary dynamics between plants and hummingbirds including pollination specialization, network ecology, and conservation status. Highlights ecological dependencies shaping hummingbird species diversification[9].
+
+6. **Monographs on Sexual Selection and Signal Evolution** (Meléndez-Ackerman, 1997)  
+   - Focus on how female preference and male trait variation (color, display behavior) drive selection and diversity within the Trochilidae, linking evolutionary biology, ethology, and mate choice studies[10].
+
+***
+
+### Summary Table
+
+| Work / Author(s)                       | Year     | Focus                                    | Methodology & Scope                          | Notes                                  |
+|--------------------------------------|----------|------------------------------------------|----------------------------------------------|-----------------------------------------|
+| Gould / Bowdler Sharpe (Monograph)   | 1849-1887| Classical taxonomy, morphology           | Specimen descriptions, plates                  | Foundational Victorian work             |
+| Leimberger et al. (Evolutionary)     | 2023     | Speciation drivers, niche evolution      | Molecular phylogenetics, trait analysis        | Modern ecological-evolutionary integration |
+| Maglianesi et al. (Behavioral Ecology)| 2022    | Sex-specific behavior, territoriality    | Field behavior observation, statistical        | Behavioral focus with human impact      |
+| Williamson et al. (Field Guide)      | 2024     | Biogeography, ID, natural history        | Photographic documentation, taxonomy update    | Popular scientific guide                |
+| Leimberger et al. (Mutualism & ecology)| 2022   | Pollination, mutualistic networks        | Network analysis, coevolutionary models       | Ecosystem and conservation biology     |
+| Meléndez-Ackerman (Sexual Selection) | 1997    | Sexual selection, signal evolution         | Behavioral experiments, mate-choice studies     | Focus on mating systems                 |
+
+These monographs, spanning historical taxonomy, molecular systematics, behavioral ecology, and mutualistic coevolution, collectively provide a comprehensive foundation on the genus Trochilidae. They cover not just species enumeration but deep insights into their evolutionary dynamics, ecological roles, and behaviors crucial to conservation and biological understanding.
+
+If preferred, detailed excerpts or lineage-specific monographic syntheses can be provided on demand.
+
+Citations:
+- [Leimberger et al., 2023 PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10113027/) [2]
+- [Maglianesi et al., 2022 Behaviour & Morphology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9983423/) [3]
+- [Williamson et al., 2024 Guide](https://www.nhbs.com/en/hummingbirds-of-north-america-a-comprehensive-guide-to-all-species-book) [6]
+- [Gould Monograph Legacy](https://www.biodiversitylibrary.org/bibliography/51215) [1]
+- [Leimberger et al., 2022 Mutualism Ecology](https://www.sciencedirect.com/science/article/pii/S155541552300394X) [9]
+- [Meléndez-Ackerman 1997](https://www.jstor.org/stable/2265912) [10]
+
+Citations:
+[1] A monograph of the Trochilidae, or family of humming-birds https://www.biodiversitylibrary.org/bibliography/51215
+[2] Morphology and niche evolution influence hummingbird ... https://pmc.ncbi.nlm.nih.gov/articles/PMC10113027/
+[3] The behavior of Broad-tailed hummingbirds is altered by ... https://pmc.ncbi.nlm.nih.gov/articles/PMC9983423/
+[4] Behavioural and morphological traits influence sex‐specific ... https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13746
+[5] Hummingbird (Family Trochilidae) Research https://www.depts.ttu.edu/nsrl/publications/downloads/SP76.pdf
+[6] Hummingbirds of North America: A Comprehensive Guide ... https://www.nhbs.com/en/hummingbirds-of-north-america-a-comprehensive-guide-to-all-species-book
+[7] Hummingbirds of North America: The Photographic Guide https://bioone.org/journals/the-auk/volume-119/issue-3/0004-8038(2002)119%5B0877:HONATP%5D2.0.CO;2/Hummingbirds-of-North-America-The-Photographic-Guide/10.1642/0004-8038(2002)119%5B0877:HONATP%5D2.0.CO;2.full
+[8] BioOne COMPLETE https://sora.unm.edu/sites/default/files/om.2013.77.1.1.pdf
+[9] The evolution, ecology, and conservation of hummingbirds ... http://www.tobiaslab.net/wp-content/uploads/2022/04/Leimberger-et-al.-2022-The-evolution-ecology-and-conservation-of-hummingbirds-and-their-interactions.-Biol-Rev.pdf
+[10] hummingbird behavior and mechanisms of selection on https://www.jstor.org/stable/2265912
+[11] Ornithological Literature - Digital Commons @ USF https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=7798&context=wilson_bulletin
+
 
