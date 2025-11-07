@@ -981,3 +981,324 @@ Unrelated business activity is any business operation by a nonprofit that does n
 If you want, I can also provide examples or discuss how nonprofits typically manage unrelated business activities.
 
 
+Piercing the corporate veil is a Legalese Anericanism. What are its attested Australian, European and International analogues?
+
+In Australian, European, and international legal contexts, the concept analogous to the American “piercing the corporate veil” exists but is applied with distinct nuances and frameworks:
+
+### Australian Law
+- Courts in Australia recognize the principle of **piercing or lifting the corporate veil** but apply it cautiously and only in **exceptional circumstances**, such as when a company is used as a sham to perpetrate fraud, evade legal obligations, or when directors act in bad faith[1][2][3].
+- The Australian **Corporations Act 2001 (Cth)** supplements common law with specific provisions making directors personally liable for insolvent trading or breaches of fiduciary duties, which align with veil-piercing principles[3].
+- Australian courts emphasize a **fact-sensitive approach** prioritizing substance over form but uphold separate legal personality as a fundamental principle[4].
+
+### European Law
+- In Europe, veil-piercing approaches vary by jurisdiction but share common themes of **disregarding limited liability** when a company is used to conceal wrongdoing or fraud[5][6].
+- English courts, following the landmark **Salomon v Salomon** principle, pierce the veil sparingly, focusing on misuse of the corporate form to **conceal true facts or evade legal duties**[5].
+- Civil law countries (Germany, France, Spain) may apply statutory provisions or tort-like liability claims to attribute responsibility to parent companies, sometimes without explicitly “piercing the veil,” favoring applying specific liability rules over veil-piercing as a doctrine[5][6].
+- Spanish law exhibits a more unified corporate group liability doctrine, making parent companies liable under certain integration and control tests[5].
+
+### International Law and Practice
+- The concept is less formalized globally but aligns with principles in transnational legal frameworks addressing **corporate group liability**, anti-fraud regulations, and investor protections[6].
+- International courts and arbitration panels occasionally reference piercing principles when addressing issues of façade corporations in cross-border insolvencies and fraud cases[6].
+
+***
+
+### Comparative Summary
+
+| Jurisdiction     | Concept and Scope                                          | Key Features                                           |
+|------------------|------------------------------------------------------------|--------------------------------------------------------|
+| Australia        | Piercing/lifting veil; directors’ liability statutory rules | Rarely applied; focus on fraud, sham, evasion          |
+| England & Common Law Europe | Conservative application; Salomon principle upheld   | Piercing limited to concealment and fraud cases        |
+| Civil Law Europe | Liability applied via statutes and torts rather than veil-piercing | Emphasis on group liability, parent responsibility     |
+| International    | Emerging references in transnational insolvency and arbitration | No unified doctrine, depends on case and treaty context|
+
+***
+
+**References:**
+
+- RCR Law Australia, “Piercing the Corporate Veil” [1]
+- Max-EuP 2012 EU Study, “Piercing the Corporate Veil in Europe” [5]
+- Corporate Board Review, Alanazi 2020, “Piercing the corporate veil in UK, US, Australia” [6]
+- Lawpath Australia, “The Corporate Veil and When it Can Be Pierced” (2025) [3]
+- AustLII Case Law and Commentary [4]
+
+This landscape reflects that **"piercing the corporate veil" is a legal metaphor adapted differently across jurisdictions**, all aiming to address misuse of corporate personality but with jurisdiction-specific safeguards and interpretations. Your NFP’s offshore subsidiary structuring should account for these nuances to anticipate liability risks and implement appropriate governance and legal compliance.
+
+Would you like assistance mapping corporate veil doctrines to specific jurisdictions relevant to your structure?
+
+Citations:
+[1] Piercing the corporate veil https://rcrlaw.com.au/piercing-the-corporate-veil/
+[2] Piercing the Corporate Veil: What Does it Mean? https://progressivelegal.com.au/corporate-lawyers/piercing-the-corporate-veil/
+[3] The Corporate Veil and When it Can Be Pierced (2025 ... https://lawpath.com.au/blog/corporate-veil-can-pierced
+[4] Federal Judicial Scholarship https://classic.austlii.edu.au/au/journals/FedJSchol/2022/16.html
+[5] Piercing the Corporate Veil - Max-EuP 2012 https://max-eup2012.mpipriv.de/index.php/Piercing_the_Corporate_Veil
+[6] Piercing the corporate veil in various jurisdictions – (...) https://virtusinterpress.org/Piercing-the-corporate-veil-in-various-jurisdictions-Principled-or-unprincipled.html
+[7] Piercing the Corporate Veil Australia https://www.imlawyers.com.au/blog/corporate-veil/
+[8] Piercing the Corporate Veil | Harris Gomez Group Pty Ltd https://www.hgomezgroup.com/australia/piercing-the-corporate-veil/
+[9] Bond Law Review https://classic.austlii.edu.au/au/journals/BondLawRw/2004/12.pdf
+[10] Piercing the Corporate Veil: When May a Director be ... https://warlowslegal.com.au/piercing-the-corporate-veil-when-may-a-director-be-personally-liable/
+
+
+
+Now, triangulate the Legalese antonym for the concept of: "Piercing the Corporate Veil" in all the jurisdictions aforestated?
+
+The **legalese antonym or counterpart to “Piercing the Corporate Veil”** in Australian, European, and international law contexts centers around the foundational doctrine of **“separate legal personality”** or **“corporate veil protection.”** This concept upholds the company as a distinct legal entity, independent of its members, directors, or shareholders, shielding individuals from personal liability for the company’s obligations.
+
+### Australian Context
+- **Doctrine of Separate Legal Entity:** Australian law firmly upholds the separation between the company and its owners or directors, recognizing the company as a separate legal person with its own rights and liabilities[1][4][5].  
+- The **corporate veil** acts as a protective shield that courts generally respect unless exceptional circumstances exist (fraud, sham, or statutory breaches)[2].  
+- Courts apply these principles prudently to maintain commercial certainty and protect investors and directors from undue personal exposure[9][5].
+
+### European Context
+- In the UK and many common law based European jurisdictions, **“separate legal personality”** is similarly revered as a cornerstone principle, stemming from **Salomon v A Salomon & Co Ltd (1897)** case doctrine[11][12].  
+- Civil law countries may emphasize **“legal personality”** and **“group company doctrine”** to respect the autonomy of corporate entities while allocating liability under specific legal frameworks without generally piercing the veil[11].  
+
+### International Context
+- Global corporate law recognizes the principle of separate legal personality as fundamental to company law, embedded in international treaties and transnational corporate governance standards[12].  
+- Treaties and conventions prioritize respecting juridical separateness unless overriding circumstances justify intervention.
+
+***
+
+### Summary Table of Conceptual Antonyms
+
+| Jurisdiction       | Antonym/Principle                   | Description                                      |
+|--------------------|-----------------------------------|------------------------------------------------|
+| Australia          | Separate Legal Entity / Corporate Veil Protection | Company distinct from individual owners/directors; limited liability |
+| UK/Common Law Europe| Separate Legal Personality         | Protects corporate independence with limited exceptions                  |
+| Civil Law Europe   | Legal Personality / Group Company Doctrine | Protects distinct corporate entity within group structures, liability managed by law |
+| International      | Separate Legal Personality          | Recognized globally as basis for corporate governance and liability       |
+
+***
+
+**References:**
+
+- RCR Law, “Piercing the Corporate Veil” Australia (Doctrine explanation) [1]
+- ProgressiveLegal, “Corporate Veil Overview” Australia [4]
+- Harris Gomez Group, “Piercing the Corporate Veil Australia” [5]
+- Max-EuP 2012, “Piercing the corporate veil in Europe” [11]
+- Corporate governance and cross-border regulation commentary [12]
+
+Thus, the **“corporate veil protection”** or **“separate legal personality”** stands as the conceptual and functional antonym to piercing in all jurisdictions, enshrining corporate autonomy and limiting liability under the rule of law.
+
+Would you like assistance exploring specific case law or statutory frameworks supporting these principles in your jurisdiction of interest?
+
+Citations:
+[1] Piercing the corporate veil https://rcrlaw.com.au/piercing-the-corporate-veil/
+[2] The Corporate Veil and When it Can Be Pierced (2025 Update) https://lawpath.com.au/blog/corporate-veil-can-pierced
+[3] Piercing the Corporate Veil Australia https://www.imlawyers.com.au/blog/corporate-veil/
+[4] Piercing the Corporate Veil: What Does it Mean? https://progressivelegal.com.au/corporate-lawyers/piercing-the-corporate-veil/
+[5] Piercing the Corporate Veil | Harris Gomez Group Pty Ltd https://www.hgomezgroup.com/australia/piercing-the-corporate-veil/
+[6] BL- Outline Summary of Piercing the Corporate Veil Theory in ... https://www.studocu.vn/vn/document/the-western-australian-international-school-system/english-for-academic-purpose-5/bl-outline-summary-of-piercing-the-corporate-veil-theory-in-au-vn-law/138932636
+[7] Is there any longer a corporate veil protecting company ... https://www.lynnandbrown.com.au/is-there-any-longer-a-corporate-veil-protecting-company-directors-in-australia/
+[8] Piercing the Corporate Veil in Australia https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299488
+[9] Federal Judicial Scholarship https://classic.austlii.edu.au/au/journals/FedJSchol/2022/16.html
+[10] Piercing the Corporate Veil: A Guide for Business Owners | LegalVision https://legalvision.com.au/piercing-corporate-veil/
+[11] Piercing the Corporate Veil - Max-EuP 2012 https://max-eup2012.mpipriv.de/index.php/Piercing_the_Corporate_Veil
+[12] Piercing the corporate veil in various jurisdictions – (...) https://virtusinterpress.org/Piercing-the-corporate-veil-in-various-jurisdictions-Principled-or-unprincipled.html
+
+
+
+You can produce more robust readings on the antonym than that!?
+
+A more robust and nuanced reading of the **antonym to “Piercing the Corporate Veil”** is the legal doctrine of **"Separate Legal Personality" (SLP)**, also referred to as **“corporate veil protection”** or **“the corporate entity principle.”** Across Australian, European, and international jurisdictions, this doctrine serves as the foundational legal shield recognizing the company as a distinct legal “person” separate from its shareholders, directors, or parent entities.
+
+### Core Aspects of Separate Legal Personality
+
+1. **Distinct Legal Entity:**  
+   The company is legally separate from its members and controllers. It owns property, enters contracts, sues and can be sued in its own name[1][2].
+
+2. **Limited Liability:**  
+   Members’ or shareholders’ liability is limited to their investment; personal assets are protected from company debts and obligations[3].
+
+3. **Perpetual Succession:**  
+   The company persists despite changes in ownership, management, or shareholder composition—it is an ongoing legal “person” beyond individual participants[4].
+
+4. **Operational Autonomy:**  
+   The company acts independently with its assets and liabilities distinct from those of stakeholders or affiliated entities[5][6].
+
+### Sophisticated Readings and Theoretical Perspectives
+
+- **Real Entity Theory:** A contemporary understanding, as developed post-Prest v Petrodel [UK, 2013], emphasizes that a company’s separate legal personality should be **always respected except in exceptional cases of concealment or evasion,** not simply disregard corporate form[7]. Companies are real entities that enable autonomous action beyond mere economic contract aggregates.
+
+- **Legal Reality vs. Economic Fiction:** Despite older economic models viewing companies as contractual “nexus of contracts,” the legal and sociological perspective strongly endorses corporations as real social and legal actors with genuine responsibilities and protections[7][10].
+
+### Comparative Jurisdictional Emphasis
+
+| Jurisdiction          | Emphasis on Separate Legal Personality                                  | Key Cases/Statutes                             |
+|----------------------|------------------------------------------------------------------------|-----------------------------------------------|
+| Australia            | Strict but pragmatic respect with exceptions in fraud/abuse            | Australian Corporations Act 2001; case law[11][12] |
+| England & Wales      | Strong recognition since Salomon v Salomon (1897), protected except evasion/concealment | Prest v Petrodel (2013); Salomon case[5][7] |
+| Civil Law Europe     | Legal personhood granted by statute; group liability nuanced; privacy of entity respected | National statutes varying by country[13][14] |
+| International        | Recognized in transnational commercial law; basis for corporate governance and liability | UNCITRAL, international arbitration standards[9] |
+
+***
+
+### Summary: The “Antonym” as a Strong, Foundational Doctrine
+
+The **Separate Legal Personality doctrine** is not just a conceptual opposite but a **robust, well-developed legal shield that embodies corporate individuality, autonomy, and protection from personal liability**. It balances commercial certainty, individual protection, and organizational accountability, foundational to modern corporate and non-profit law worldwide.
+
+***
+
+### Key References
+
+- Studocu.com, “Separate Legal Personality Doctrine” [1][2]
+- Debeer Attorneys, “Separate Legal Personality Guide” (2024) [3]
+- Papers SSRN, “Separate Legal Personality—An Explanation and a Defence” (2024) [7]
+- LawfulLegal.in, “Separate Legal Entity Doctrine: An In-Depth Analysis” (2024) [5]
+- ProgressiveLegal.com.au, “Piercing the Corporate Veil” Australia (2024) [15]
+
+Would you like a detailed synthesis comparing this doctrine with veil piercing across multiple jurisdictions, including philosophical foundations and contemporary case law?
+
+Citations:
+[1] [Solved] Explain the separate legal personality doctrine as an essay - company law (laws 6010) - Studocu https://www.studocu.com/row/messages/question/7582061/explain-the-separate-legal-personality-doctrine-as-an-essay
+[2] [Solved] explain the legal doctrine of separate legal personality - Company & Partnership Law (LA4008) - Studocu https://www.studocu.com/en-ie/messages/question/6610964/explain-the-legal-doctrine-of-separate-legal-personality
+[3] Separate Legal Personality Guide: Its Limits & Implications https://www.debeerattorneys.com/post/separate-legal-personality
+[4] Doctrine of Separate Legal Personality https://www.scribd.com/doc/78378186/Doctrine-of-Separate-Legal-Personality
+[5] SEPARATE LEGAL ENTITY DOCTRINE: AN IN-DEPTH ANALYSIS AND CONTEMPORARY PERSPECTIVES » Lawful Legal https://lawfullegal.in/separate-legal-entity-doctrine-an-in-depth-analysis-and-contemporary-perspectives/
+[6] Separate legal personality & limited liability - TextMine https://www.legislate.ai/blog/separate-legal-personality-limited-liability
+[7] Separate Legal Personality - An Explanation and a Defence https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877804
+[8] Doctrine of Separate Legal Personality | Piercing The Corporate Veil https://www.scribd.com/document/497626523/Corporate-Law
+[9] The Doctrine of Separate Legal Personality and It’s Significance in International Business https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384050
+[10] Separate Legal Personality: Legal Reality and Metaphor https://blr.scholasticahq.com/article/5249-separate-legal-personality-legal-reality-and-metaphor.pdf
+[11] Piercing the corporate veil https://rcrlaw.com.au/piercing-the-corporate-veil/
+[12] The Corporate Veil and When it Can Be Pierced (2025 Update) https://lawpath.com.au/blog/corporate-veil-can-pierced
+[13] Piercing the Corporate Veil - Max-EuP 2012 https://max-eup2012.mpipriv.de/index.php/Piercing_the_Corporate_Veil
+[14] Piercing the corporate veil in various jurisdictions – (...) https://virtusinterpress.org/Piercing-the-corporate-veil-in-various-jurisdictions-Principled-or-unprincipled.html
+[15] Piercing the Corporate Veil: What Does it Mean? https://progressivelegal.com.au/corporate-lawyers/piercing-the-corporate-veil/
+
+
+I would prefer the university readings for the requisite legal unit?
+
+For a university-level legal unit reading on the **antonym of "piercing the corporate veil,"** i.e., the doctrine of **Separate Legal Personality (SLP),** here is a triangulated list of authoritative academic sources, comprehensive guides, and scholarly articles ideally suited to advanced legal study:
+
+***
+
+### Key University-Grade Readings on Separate Legal Personality
+
+1. **Eva Micheler, “Separate legal personality – an explanation and a defence” (2024) — London School of Economics**  
+   - A rigorous modern theoretical article proposing real entity theory to explain SLP, focusing on the corporation as an autonomous actor beyond economic fiction.  
+   - Explores the doctrinal evolution post-Prest v Petrodel and argues for context-specific legal rules instead of general veil “disregard.”  
+   - [LSE Paper Abstract & Link][1][7]
+
+2. **Nicholas James, “Separate Legal Personality: Legal Reality and Metaphor” (1993) — Bond Law Review (University of Melbourne)**  
+   - Foundational article examining the dual nature of separate legal personality as legal reality and metaphor shaping judicial reasoning and corporate law.  
+   - Critically analyzes corporate personality’s conceptual challenges and judicial applications, including veil piercing limitations.  
+   - [Bond Law Review PDF][2][3]
+
+3. **“Doctrine of Separate Legal Personality” (2025) — SSRN preprint by legal scholars**  
+   - Detailed survey article defending the SLP principle and explicating its significance in international business law, contrasting it with veil piercing.  
+   - Provides contemporary academic perspectives on the sociological and psychological dimensions of corporate personality.  
+   - [SSRN Paper][6]
+
+4. **University of Melbourne Corp Law Unit, “Corporations Law (LAWS50035)”**  
+   - A comprehensive curriculum offering coverage of company law fundamentals including separate legal personality, limited liability, and piercing the veil doctrines.  
+   - Utilizes case law, statutory interpretation, and policy analysis relevant to Australian law with comparative references.  
+   - [UniMelb Handbook][8]
+
+5. **LawTeacher.net, “Legal Personality and Liability for Corporate Groups”**  
+   - Academic resource explaining SLP foundations and application in corporate groups, emphasizing the legal autonomy of entities and the conditions for veil piercing.  
+   - Useful for understanding corporate group liability and the robustness of SLP in complex structures.  
+   - [LawTeacher Article][10]
+
+***
+
+### Supplementary University Materials
+
+- **Studocu Guides** on “Explain separate legal personality” and “Legal Personality & Company Groups” providing student-friendly breakdowns and exam preparation summaries[11][9].  
+- **Open University OpenLearn Module**, basic but clear explanation of the principles behind separate legal personality and limited liability[5].
+
+***
+
+### Context and Use in Legal Education
+
+- These readings aid in developing a nuanced understanding of how courts conceptualize and protect the corporate entity’s legal boundaries.  
+- They distinguish the doctrinal limits of veil piercing while grounding legal personality as an indispensable legal abstraction underpinning modern corporate law and governance.
+
+***
+
+If preferred, detailed annotated bibliographies or lecture notes synthesizing these readings into a coherent university syllabus module can be prepared.
+
+Would you like that or specific case law compendiums included?
+
+Citations:
+[1] Separate legal personality – an explanation and a defence https://eprints.lse.ac.uk/123799/4/Separate_legal_personality_an_explanation_and_a_defence.pdf
+[2] Legal Reality and Metaphor" [1993] BondLawRw 13; (1993 ... http://www.austlii.edu.au/au/journals/BondLawRw/1993/13.pdf
+[3] Separate Legal Personality: Legal Reality and Metaphor https://blr.scholasticahq.com/article/5249-separate-legal-personality-legal-reality-and-metaphor.pdf
+[4] The Corporate Legal Person Susan Watson https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3300383_code10517.pdf?abstractid=3300383&mirid=1
+[5] 1.4.1 Separate legal personality | OpenLearn https://www.open.edu/openlearn/money-business/companies-and-financial-accounting/content-section-1.4.1
+[6] Separate Legal Personality - An Explanation and a Defence https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877804
+[7] Separate legal personality – an explanation and a defence https://www.tandfonline.com/doi/full/10.1080/14735970.2024.2365170
+[8] Corporations Law (LAWS50035) - UniMelb Handbook https://handbook.unimelb.edu.au/subjects/laws50035
+[9] Legal Personality & Company Groups (Business Law) https://www.studocu.com/en-gb/document/university-of-law/business-law-and-practice/workshop-2-separate-legal-personality-and-groups-of-companies/23266977
+[10] Legal Personality and Liability for Corporate Groups https://www.lawteacher.net/example-essays/separate-personality-limited-liability-and-corporate-groups.php
+[11] [Solved] Explain the separate legal personality doctrine as an essay - company law (laws 6010) - Studocu https://www.studocu.com/row/messages/question/7582061/explain-the-separate-legal-personality-doctrine-as-an-essay
+
+
+
+List all the dominant textbooks on Corporation Law currently used in the bastion of legal training institutions?
+
+Here is a list of dominant and highly respected **corporate law textbooks** currently used in leading Australian legal training institutions as of 2025. These texts serve as core materials for foundational and advanced corporate law units in top universities:
+
+***
+
+### Dominant Textbooks on Australian Corporate Law
+
+1. **Ford, Austin and Ramsay’s Principles of Corporations Law**  
+   - Considered the authoritative and seminal text covering Australian corporate law comprehensively, including detailed commentary on legislation, case law, and doctrine.  
+   - Now in its 17th edition, used extensively by undergraduate and postgraduate students.  
+   - Authors: Robert P. Austin & Ian M. Ramsay  
+   - [UniMelb LibGuide][2]
+
+2. **Contemporary Australian Corporate Law**  
+   - Provides contextual and critical analysis of corporate law, focusing on its role within legal, social, economic, and political frameworks.  
+   - Includes key cases, statutory updates, and practical examples.  
+   - Authors: Stephen Bottomley et al.  
+   - Recent editions include significant updates reflecting current developments.  
+   - [UniMelb LibGuide][2]
+
+3. **Corporations Legislation (Thomson Reuters)**  
+   - Up-to-date annotated legislation book including Corporations Act 2001 (Cth), regulations, and insolvency rules.  
+   - Includes expert annotations and “Year in Review” commentary on recent legislative changes.  
+   - Regularly updated eBook and print editions used by practitioners and students.  
+   - [Thomson Reuters][1][8]
+
+4. **Commercial Applications of Company Law**  
+   - Focuses on applying corporate legal principles in commercial contexts, business planning, and compliance.  
+   - Authoritative, accessible, and current with legislative and case law developments.  
+   - Authors: Pamela Hanrahan, Ian Ramsay & Geof Stapledon  
+   - [UniMelb LibGuide][4]
+
+5. **Corporations Law: In Principle (11th Edition)**  
+   - Highly regarded for clarity and comprehensibility in corporate law introduction and principles.  
+   - Updated regularly to reflect current case law and legislation.  
+   - [Thomson Reuters][3]
+
+***
+
+### Summary Table
+
+| Title                                    | Authors                            | Notes                                                      |
+|------------------------------------------|----------------------------------|------------------------------------------------------------|
+| Principles of Corporations Law            | Robert P. Austin & Ian M. Ramsay | Seminal, comprehensive, 17th edition                        |
+| Contemporary Australian Corporate Law    | Stephen Bottomley et al.           | Critical, contextual, widely adopted                       |
+| Corporations Legislation (compiled text) | Various Thomson Reuters editors    | Legislative annotations, annual updates                    |
+| Commercial Applications of Company Law   | Hanrahan, Ramsay & Stapledon      | Practical business law focus                                |
+| Corporations Law: In Principle (11th ed) | Thomson Reuters team               | Clear introduction for undergraduates and advanced topics |
+
+***
+
+These textbooks are considered essential reading and are widely adopted in Australia’s bastions of legal education such as University of Melbourne, University of Sydney, Australian National University, and others. They integrate statutory, judicial, and theoretical perspectives to equip students with a robust understanding of corporate law.
+
+Would you like links to digital versions or recommendations for supplemental case law collections?
+
+Citations:
+[1] Corporations Legislation 2025 eBook https://store.thomsonreuters.com.au/corporations-legislation-2025-ebook/productdetail/132424
+[2] Corporate law - Australian Law Textbook Finder - Library Guides https://unimelb.libguides.com/c.php?g=402946&p=2744177
+[3] Corporations Law: In Principle 11th Edition https://store.thomsonreuters.com.au/corporations-law-in-principle-11th-edition/productdetail/131025
+[4] Commercial law - Australian Law Textbook Finder https://unimelb.libguides.com/c.php?g=402946&p=2744168
+[5] Australian Corporations Legislation 2025 (2 Volume Set) https://www.liv.asn.au/itemdetail?iProductCode=9780409361636
+[6] Corporate law textbook : r/unimelb https://www.reddit.com/r/unimelb/comments/1jopqxz/corporate_law_textbook/
+[7] Law Books | New Releases https://www.abbeys.com.au/new-releases/Law-Books.do
+[8] University Law books https://www.harryhartog.com.au/collections/university-law-books
+[9] books in Corporations Law https://www.boffinsbooks.com.au/professional/law/taxation-corporations-commerce/corporations-law/
+[10] Law Textbooks Australia | Digital & Print | Wiley Direct https://www.wileydirect.com.au/subject/law/
+
