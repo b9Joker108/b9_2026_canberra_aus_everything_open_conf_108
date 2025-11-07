@@ -8,7 +8,7 @@ Here is a list of twenty notable Australian investigative journalists, in alphab
 
 | Name               | Dates Flourished  | Framing & Magnum Opus                               | Two Notable Works                              |
 |--------------------|------------------|----------------------------------------------------|-----------------------------------------------|
-| Linton Besser      | 1990s–2020s      | Veteran investigative journalist for *The Age* and *SMH*. Magnum opus: exposés on political corruption. | "The Andrew Bolt Case" (2011), "Inside the PLP" (2020) |
+| [Linton Besser](https://en.wikipedia.org/w/index.php?title=Linton_Besser&oldid=1318122118)      | 1990s–2020s      | Veteran investigative journalist for *The Age* and *SMH*. Magnum opus: exposés on political corruption. | "The Andrew Bolt Case" (2011), "Inside the PLP" (2020) |
 | Bob Bottom         | 1970s–2000s      | Pioneered crime and corruption investigations, especially in Queensland. Magnum opus: Fitzgerald Inquiry reporting. | Reports on Queensland corruption (1987), "The Mafia in Australia" (2000) |
 | Peter Charley      | 1980s–2010s      | Known for war and human rights investigations with CBS and ABC. Magnum opus: "The Killing Season" documentary series. | "Inside the Killing Season" (2015), "Warlords of Papua" (2009) |
 | Neil Chenoweth     | 2010s–2020s      | Explosive business investigations for *AFR*, especially tax scandals. Magnum opus: PwC Tax Leak investigation (2023). | "Corporate Money Laundering" (2022), "Banking Scandal Exposé" (2021) |
