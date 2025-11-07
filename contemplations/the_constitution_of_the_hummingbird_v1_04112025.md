@@ -219,4 +219,50 @@ Citations:
 
 
 
+You failed to triangulate their actual courtship dances once partnerbonding is cemented?
+
+After initial courtship flights and dances that secure female interest, hummingbirds do not form lasting pair bonds or share ongoing courtship rituals as many other bird species do. Instead, their mating system is characterized by **promiscuity and brief, energetically intense interactions** focused primarily around reproduction rather than partnership maintenance[1][2].
+
+### Post-Mating Courtship Behaviors
+
+- Once mating occurs, males typically **do not remain or assist in nest building or chick rearing**; females assume full responsibility for nesting, incubation, and fledgling care[1][7].
+- However, some **secondary courtship behaviors** may follow briefly, such as the male performing **short, tight arcs or fluttering flights near the female** at the nest site, possibly as a residual display to maintain mating access or territorial dominance, though this is not consistent or long-term[5].
+- Males continue to aggressively **defend nectar-rich territories** to attract multiple females during the breeding season but do not exhibit pair bonding displays post-copulation[1][2].
+- Females exhibit territorial defense around nesting sites but generally do not engage in elaborate courtship dances post copulation[2].
+
+### Ecological and Evolutionary Context
+
+- The brief post-mating interactions reflect an evolutionary strategy that **maximizes reproductive output** for males by mating with many females rather than investing in parental care[1].
+- Females, investing heavily in offspring survival, conserve energy by solitary nesting and brood care, selecting mates based on the quality of pre-mating displays and territory quality[4][7].
+- This behavior contrasts starkly with monogamous species where renewed displays and mate reaffirmation behavior after pair bonding are common[3].
+
+### Summary
+
+Unlike many avian species exhibiting ongoing, mutual courtship or pair-bond maintenance behaviors after mating, most hummingbird species display a **largely absent or minimal post-mating courtship dance**. Their mating rituals end with copulation followed by **male withdrawal and female-exclusive nesting care**, consistent with a promiscuous, territorial system prioritizing mating opportunities over pair bonds.
+
+**References:**
+
+- Sweet Seed blog, "Hummingbird Courtship, Mating, and… Marriage?" (2025) [1]
+- Journey North, "Mysteries of Hummingbird Courtship" (1996-2025) [2]
+- Anna’s Hummingbird courtship display - First dive to flutter near the female on nest site (Bryan Ribelin 2023) [5]
+- All About Birds, "How Do Birds 'Fall in Love'? A Look at Courtship Displays" (2025) [3]
+- Ruby Throat Hummingbird Reproduction & Nesting (The Ruby Throat) [7]
+- Princeton University, "Hummingbirds dive to dazzle females" (2018) [8]
+
+If desired, further elaboration on specific species or exceptions with longer post-mating rituals can be provided.
+
+Citations:
+[1] Hummingbird Courtship, Mating, and… Marriage? https://sweet-seed.com/blog/hummingbird-courtship-mating-and-marriage/
+[2] Mysteries of Hummingbird Courtship https://journeynorth.org/tm/humm/CourtshipMysteries.html
+[3] How Do Birds "Fall in Love"? A Look at Courtship Displays https://www.allaboutbirds.org/news/how-do-birds-fall-in-love-a-look-at-courtship-displays/
+[4] Hummingbird Reproduction https://hummingworlds.com/hummingbird-reproduction/
+[5] Anna's Hummingbird Courtship Dive https://www.bryanribelin.com/nature-blog/2023/1/15/annas-hummingbird-courtship-dive
+[6] When hummingbirds sway back and forth continuously.. is ... https://www.facebook.com/groups/welovehummingbirds/posts/9890801377666524/
+[7] Hummingbird: reproduction, courtship, nesting, incubation https://www.rubythroat.org/RTHUReproductionMain.html
+[8] Hummingbirds dive to dazzle females in a highly ... https://www.princeton.edu/news/2018/12/18/hummingbirds-dive-dazzle-females-highly-synchronized-display
+[9] Anna's hummingbird courtship display and nest building ... https://www.britannica.com/video/courtship-hummingbird-Anna-display-flight-diving-male/-16543
+[10] Courtship dives of Anna's hummingbird offer insights into ... https://pmc.ncbi.nlm.nih.gov/articles/PMC2817121/
+
+
+
 
