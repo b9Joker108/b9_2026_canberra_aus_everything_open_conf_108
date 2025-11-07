@@ -2,7 +2,7 @@ File: xxx
 
 # xxx #
 
-Please list twenty (20) investigative journalist attackdogs, in alphabetical order of family name, with their hard dates of flourishing, a succint paragraph f$aming them, their magnum opus and two (2) notables works each.
+Please list twenty (20) Australian investigative journalist attackdogs, in alphabetical order by family name, with their hard dates of flourishing, a succint paragraph framing them, their *magnum opus* and two (2) notable works each.
 
 Here is a list of twenty notable Australian investigative journalists, in alphabetical order by family name, including their periods of influence, a brief framing paragraph, their magnum opus, and two additional notable works each:
 
