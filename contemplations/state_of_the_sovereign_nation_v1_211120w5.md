@@ -5,6 +5,9 @@ Deixes:
 * https://mastodon.social/@opentermsarchive/115548115841015527
 * https://mastodon.social/@opentermsarchive/115548115841015
 * https://mastodon.social/@b9Joker108
+* https://github.com/orgs/OpenTermsArchive/followers?page=1
+* https://github.com/orgs/OpenTermsArchive/followers?page=2
+* https://github.com/orgs/OpenTermsArchive/followers?page=3
 
 # ... FFF| #
 
