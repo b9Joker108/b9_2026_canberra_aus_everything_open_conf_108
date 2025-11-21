@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_10
 
 # ... FFF| #
 
-I need an free and open source application that downloads every state of every online Terms-and-Conditions (T&Cs) and subsidiary documentation too in-state, etc., et al.; Has any work on this been done? Triangulate; Survey; Report! Hari Aum Tat Sat Svaha A FFF|
+**I need a free and open source application that downloads every state of every online Terms-and-Conditions (T&Cs) and subsidiary documentation too in-state, etc., et al., that I digitally sign: Has any work on this been done? Triangulate; Survey; Report! Hari Aum Tat Sat Svaha A FFF|**
 
 Yes, there is a significant open source initiative already addressing the archival and versioning of online Terms-and-Conditions (T&Cs) and subsidiary documentation, enabling democratic oversight and detailed tracking of changes over time[1][2][3].
 
