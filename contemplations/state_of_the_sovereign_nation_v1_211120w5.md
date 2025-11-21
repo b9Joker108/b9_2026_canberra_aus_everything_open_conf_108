@@ -3,6 +3,8 @@ File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_10
 Deixes:
 
 * https://mastodon.social/@opentermsarchive/115548115841015527
+* https://mastodon.social/@opentermsarchive/115548115841015
+* https://mastodon.social/@b9Joker108
 
 # ... FFF| #
 
