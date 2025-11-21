@@ -1,4 +1,4 @@
-File: ...
+File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/state_of_the_sovereign_nation_v1_211120w5.md
 
 # ... FFF| #
 
