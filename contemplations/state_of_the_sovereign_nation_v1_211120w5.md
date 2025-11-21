@@ -1,5 +1,9 @@
 File: https://github.com/b9Joker108/b9_2026_canberra_aus_everything_open_conf_108/blob/main/contemplations/state_of_the_sovereign_nation_v1_211120w5.md
 
+Deixes:
+
+* https://mastodon.social/@opentermsarchive/115548115841015527
+
 # ... FFF| #
 
 **I need a free and open source application that downloads every state of every online Terms-and-Conditions (T&Cs) and subsidiary documentation too in-state, etc., et al., that I digitally sign: Has any work on this been done? Triangulate; Survey; Report! Hari Aum Tat Sat Svaha A FFF|**
