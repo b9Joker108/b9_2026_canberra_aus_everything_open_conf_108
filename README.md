@@ -1,6 +1,14 @@
 # b9_2026_canberra_aus_everything_open_conf_108
 Beauford A. Stenberg's preparations, annotations, contemplations, responsivity, processflows, actionables, presentations, deliverables, critique and open discourse in relation to the event, its purview, presentations and content. 
 
+## Grave Warning and Peril ##
+
+Almost two (2) months ago, I saw Dune 3 'The Messiah' on my YouTube feed. It ran for over three (3) hours. I only watched just over 1.5 hours as I had been very busy and was exhausted and needed to take refuge and sanctuary in sleep and dream. The next late afternoon, when I was due for some downtime, I looked for the movie. It had disappeared from my viewing History and the publishing channel was no longer extant. I love cinema. I critique it. Cinema is a meta-discipline, like Architecture. I love meta-disciplines. I have seen the first two (2) features of this cinematic reboot. This, third installment, was amongst the best cinema I have ever seen, across the board. It vastly outstripped one (1) and two (2). Anyway, I was perplexed when I found out that Dune 3 was still in production and not slated for release for circa twelve (12) months. Like lightning, I realised that I had likely seen the first featurelength AI Generated cinematic simulacrum. I immediately, realised it was my civic and civil responsibility to report it to all tiers of governance in Australia. So, I endeavoured to do that for a whole business day. The abject and consummate farce I experienced revealed that the populace of Melbourne, Victoria and Australia are in grave peril and that the balance of politicians and inept, corrupt and asleep at the wheel. It is already here and has likely been so for a few years. 
+
+Sincerely
+Beauford Anton Stenberg
+Friday, December 26, 2025
+
 ## Countdown in Days Until Event ##
 
 xxx
